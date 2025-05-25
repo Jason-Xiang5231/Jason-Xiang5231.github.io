@@ -39,11 +39,12 @@ I have published nearly 30 papers in top international conferences and SCI journ
 
 - [Evaluating Instructively Generated Statement by Large Language Models for directional Event Causality Identification](https://Jason-Xiang5231.github.io), **Wei Xiang**, Chuanhong Zhan, Qing Zhang, Bang Wang, **ACL-Findings 2025**
 
-
+<span class='anchor' id='awards'></span>
 # 🎖️ Awards
 
 - **National Scholarship** for Doctoral Students, Ministry of Education of the People's Republic of China, 2023. 
 
+<span class='anchor' id='academic-service'></span>
 # 🏛️ Academic Service
 
 - [Committee](https://www.apsipa2025.org/wp/committee/), Local Arrangements Chair  @ IEEE APSIPA ASC, 2025
