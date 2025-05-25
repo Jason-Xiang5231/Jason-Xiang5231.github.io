@@ -4,7 +4,7 @@ main:
     url: "/#about-me"
 
   - title: "Work Experiences"
-    url: "/#work-experiences"
+    url: "/#-work-experiences"
 
   - title: "Educations"
     url: "/#-educations"
@@ -13,10 +13,10 @@ main:
     url: "/#-publications"
 
   - title: "Awards"
-    url: "/#awards"
+    url: "/#-awards"
     
   - title: "Academic Service"
-    url: "/#academic-service"
+    url: "/#-academic-service"
 
   - title: "Reviewer"
-    url: "/#reviewer"
+    url: "/#-reviewer"
