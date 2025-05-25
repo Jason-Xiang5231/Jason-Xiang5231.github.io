@@ -28,7 +28,7 @@ I have published nearly 30 papers in top international conferences and SCI journ
 - *2024.02 - 2024.07*, Postdoc Researcher, School of Software Engineering, Huazhong University of Science and Technology (HUST), Wuhan, China.
 - *2015.07 - 2020.08*, Student Counselor, School of Electronic Information and Communications, Huazhong University of Science and Technology (HUST), Wuhan, China.
 
-- # 🎓 Educations
+# 🎓 Educations
 
 - *2020.09 - 2023.12*, Ph.D. in Information and Communication Engineering, Huazhong University of Science and Technology (HUST), Wuhan, China.
 - *2013.09 - 2015.06*, M.Mgt. in Administrative Management, Huazhong University of Science and Technology (HUST), Wuhan, China.
