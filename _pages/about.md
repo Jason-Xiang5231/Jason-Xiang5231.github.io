@@ -37,7 +37,7 @@ I have published nearly 30 papers in top international conferences and SCI journ
 
 # 📝 Publications 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Evaluating Instructively Generated Statement by Large Language Models for directional Event Causality Identification](https://Jason-Xiang5231.github.io), **Wei Xiang**, Chuanhong Zhan, Qing Zhang, Bang Wang, **ACL-Findings 2025**
 
 
 🎖️ **Awards** 
