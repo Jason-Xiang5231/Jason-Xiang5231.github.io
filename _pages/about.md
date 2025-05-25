@@ -37,32 +37,15 @@ I have published nearly 30 papers in top international conferences and SCI journ
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 
-🥇 **Awards**🥈🥉🏅🎖️
+🎖️ **Awards** 
 
-- **Best Student Paper Award -🥇Gold Award** (1 recipient annually), Pattern Recognition and Machine Intelligence Association (**PREMIA**), 2024
-- **Best Student Paper Award - Long Paper Track** (1 recipient annually), Nanyang Speech Technology Forum (**NSTF**), 2024
-- The 🥉**3rd place winner** out of 49 teams in the Controlled Singing Voice Deepfake Detection (**CtrSVDD**) Challenge 2024 @ IEEE SLT, 2024
-- **Best Paper Award** in 2023 International Doctoral Forum (**CUHK** & **Microsoft**), 2023
-- **Travel Grant Award (Top Tier)**, Chinese and Oriental Languages Information Processing Society (**COLIPS**), 2023
-- The 🎖️**5th place winner** out of 128 teams in **NIST** Face Recognition Vendor Test (**FRVT**) - Face Mask Effects, 2020
-- **Outstanding Achievement Award** under the Research Domain, PENSEES Singapore, 2020
+- **National Scholarship** for Doctoral Students, Ministry of Education of the People's Republic of China, 2023. 
 
 🏛️ **Academic Service**
+
 - [Committee](https://www.apsipa2025.org/wp/committee/), Local Arrangements Chair  @ IEEE APSIPA ASC, 2025
 - Scientific Committee for Frontiers in Deepfake Voice Detection and Beyond @ IEEE ASRU, 2025
 - Virtual Session Chair @ IEEE IALP, 2023
@@ -71,17 +54,7 @@ I have published nearly 30 papers in top international conferences and SCI journ
   
 📝 **Reviewer**
 
-*Journal/Transactions/Letters:*
-- IEEE Transactions on Dependable and Secure Computing (TDSC) *'25*
-- Computer Speech & Language *'24*
-- IEEE Signal Processing Letters (SPL) - *'23, '24*
-
-*Conference:*
-- Conference on Neural Information Processing Systems (NeurIPS) - *'25* (Invitation Accepted)
-- IEEE Automatic Speech Recognition and Understanding Workshop (ASRU) - *'25* (Invitation Accepted)
-- IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) - *'23~'25*
-- INTERSPEECH - *'23~'25*
-- International Joint Conference on Neural Networks (IJCNN) *'25*
-- IEEE Spoken Language Technology Workshop (SLT) - *'24*
-- IEEE ISCSLP - *'22*
-- ASVspoof5 - *'24*
+- Elsevier Neural Networks *'24, '25*
+- IEEE ACCESS *'23*
+- Annual Meeting of the Association for Computational Linguistics (ACL), ACL Rolling Review, - *'22, '23, '24, '25*
+- Conference on Empirical Methods in Natural Language Processing (EMNLP), ACL Rolling Review, - *'23, '24*
