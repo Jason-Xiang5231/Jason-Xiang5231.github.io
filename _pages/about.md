@@ -22,6 +22,7 @@ I'm an Accociate Professor at the Faculty of Artificial Intelligence in Educatio
 My research interests span the broad domain of natural language processing, knowledge graphs, and recommendation systems, with a current focus on information extraction, public opinion events and intelligence analysis.
 I have published nearly 30 papers in top international conferences and SCI journals such as ACL, COLING, EMNLP, ACM CSUR, Elsevier Neural Networks, ESWA, etc. <a href="https://scholar.google.com/citations?user=YrcnOxYAAAAJ"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FJason-Xiang5231%2FJason-Xiang5231.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
+<span class='anchor' id='Experience'></span>
 # 💼 Work Experience
 
 - *2024.08 - Now*, Accociate Professor, Faculty of Artificial Intelligence in Education, Central China Normal University (CCNU), Wuhan, China.
