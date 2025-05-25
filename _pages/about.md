@@ -22,17 +22,18 @@ I'm an Accociate Professor at the Faculty of Artificial Intelligence in Educatio
 My research interests span the broad domain of natural language processing, knowledge graphs, and recommendation systems, with a current focus on information extraction, public opinion events and intelligence analysis.
 I have published nearly 30 papers in top international conferences and SCI journals such as ACL, COLING, EMNLP, ACM CSUR, Elsevier Neural Networks, ESWA, etc. <a href="https://scholar.google.com/citations?user=YrcnOxYAAAAJ"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FJason-Xiang5231%2FJason-Xiang5231.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-# 🎓 Education
-
-- *2021.01 - 2025.01*, Ph.D. in Speech Processing, National University of Singapore (NUS), Singapore.
-- *2018.07 - 2019.06*, M.Sc. in Electronic and Computer Engineering (Specialization in Computer Engineering), National University of Singapore (NUS), Singapore.
-
-
 # 💼 Work Experience
 
-- *2025.02 - Now*, Senior Researcher, 'Project Up' (青云计划) Talent Programme, Tencent, Singapore.
-- *2020.09 - 2025.02*, Senior Research Engineer, Agency for Science, Technology and Research (A*STAR), Singapore.
-- *2019.06 - 2020.08*, AI Scientist, PENSEES R&D Center, Singapore
+- *2024.08 - Now*, Accociate Professor, Faculty of Artificial Intelligence in Education, Central China Normal University (CCNU), Wuhan, China.
+- *2024.02 - 2024.07*, Post-Doctoral Researcher, School of Software Engineering, Huazhong University of Science and Technology (HUST), Wuhan, China.
+- *2015.07 - 2020.08*, Student Counselor, School of Electronic Information and Communications, Huazhong University of Science and Technology (HUST), Wuhan, China.
+
+- # 🎓 Education
+
+- *2020.09 - 2023.12*, Ph.D. in Information and Communication Engineering, Huazhong University of Science and Technology (HUST), Wuhan, China.
+- *2013.09 - 2015.06*, M.Mgt. in Administrative Management, Huazhong University of Science and Technology (HUST), Wuhan, China.
+- *2007.09 - 2011.06*, B.Eng. in Electronic Information Engineering, Huazhong University of Science and Technology (HUST), Wuhan, China.
+
 
 # 📝 Publications 
 
@@ -50,7 +51,6 @@ I have published nearly 30 papers in top international conferences and SCI journ
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🌟 Others
 
 🥇 **Awards**🥈🥉🏅🎖️
 
