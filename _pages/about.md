@@ -22,14 +22,13 @@ I'm an Accociate Professor at the Faculty of Artificial Intelligence in Educatio
 My research interests span the broad domain of natural language processing, knowledge graphs, and recommendation systems, with a current focus on information extraction, public opinion events and intelligence analysis.
 I have published nearly 30 papers in top international conferences and SCI journals such as ACL, COLING, EMNLP, ACM CSUR, Elsevier Neural Networks, ESWA, etc. <a href="https://scholar.google.com/citations?user=YrcnOxYAAAAJ"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FJason-Xiang5231%2FJason-Xiang5231.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-<span class='anchor' id='Experience'></span>
 # 💼 Work Experience
 
 - *2024.08 - Now*, Accociate Professor, Faculty of Artificial Intelligence in Education, Central China Normal University (CCNU), Wuhan, China.
 - *2024.02 - 2024.07*, Postdoc Researcher, School of Software Engineering, Huazhong University of Science and Technology (HUST), Wuhan, China.
 - *2015.07 - 2020.08*, Student Counselor, School of Electronic Information and Communications, Huazhong University of Science and Technology (HUST), Wuhan, China.
 
-- # 🎓 Education
+- # 🎓 Educations
 
 - *2020.09 - 2023.12*, Ph.D. in Information and Communication Engineering, Huazhong University of Science and Technology (HUST), Wuhan, China.
 - *2013.09 - 2015.06*, M.Mgt. in Administrative Management, Huazhong University of Science and Technology (HUST), Wuhan, China.
@@ -41,11 +40,11 @@ I have published nearly 30 papers in top international conferences and SCI journ
 - [Evaluating Instructively Generated Statement by Large Language Models for directional Event Causality Identification](https://Jason-Xiang5231.github.io), **Wei Xiang**, Chuanhong Zhan, Qing Zhang, Bang Wang, **ACL-Findings 2025**
 
 
-🎖️ **Awards** 
+# 🎖️ **Awards** 
 
 - **National Scholarship** for Doctoral Students, Ministry of Education of the People's Republic of China, 2023. 
 
-🏛️ **Academic Service**
+# 🏛️ **Academic Service**
 
 - [Committee](https://www.apsipa2025.org/wp/committee/), Local Arrangements Chair  @ IEEE APSIPA ASC, 2025
 - Scientific Committee for Frontiers in Deepfake Voice Detection and Beyond @ IEEE ASRU, 2025
@@ -53,7 +52,7 @@ I have published nearly 30 papers in top international conferences and SCI journ
 - [Program Committee](https://www.asianlp.sg/conferences/iscslp2022/web/committees/) @ IEEE ISCSLP, 2022
 - Volunteer @ IEEE ICASSP, 2022
   
-📝 **Reviewer**
+# 📝 **Reviewer**
 
 - Elsevier Neural Networks *'24, '25*
 - IEEE ACCESS *'23*
