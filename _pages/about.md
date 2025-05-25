@@ -22,12 +22,17 @@ I'm an Accociate Professor at the Faculty of Artificial Intelligence in Educatio
 My research interests span the broad domain of natural language processing, knowledge graphs, and recommendation systems, with a current focus on information extraction, public opinion events and intelligence analysis.
 I have published nearly 30 papers in top international conferences and SCI journals such as ACL, COLING, EMNLP, ACM CSUR, Elsevier Neural Networks, ESWA, etc. <a href="https://scholar.google.com/citations?user=YrcnOxYAAAAJ"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FJason-Xiang5231%2FJason-Xiang5231.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-# 🔍 Research Area
+# 🎓 Education
+
+- *2021.01 - 2025.01*, Ph.D. in Speech Processing, National University of Singapore (NUS), Singapore.
+- *2018.07 - 2019.06*, M.Sc. in Electronic and Computer Engineering (Specialization in Computer Engineering), National University of Singapore (NUS), Singapore.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 💼 Work Experience
+
+- *2025.02 - Now*, Senior Researcher, 'Project Up' (青云计划) Talent Programme, Tencent, Singapore.
+- *2020.09 - 2025.02*, Senior Research Engineer, Agency for Science, Technology and Research (A*STAR), Singapore.
+- *2019.06 - 2020.08*, AI Scientist, PENSEES R&D Center, Singapore
 
 # 📝 Publications 
 
@@ -45,17 +50,38 @@ I have published nearly 30 papers in top international conferences and SCI journ
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🌟 Others
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+🥇 **Awards**🥈🥉🏅🎖️
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- **Best Student Paper Award -🥇Gold Award** (1 recipient annually), Pattern Recognition and Machine Intelligence Association (**PREMIA**), 2024
+- **Best Student Paper Award - Long Paper Track** (1 recipient annually), Nanyang Speech Technology Forum (**NSTF**), 2024
+- The 🥉**3rd place winner** out of 49 teams in the Controlled Singing Voice Deepfake Detection (**CtrSVDD**) Challenge 2024 @ IEEE SLT, 2024
+- **Best Paper Award** in 2023 International Doctoral Forum (**CUHK** & **Microsoft**), 2023
+- **Travel Grant Award (Top Tier)**, Chinese and Oriental Languages Information Processing Society (**COLIPS**), 2023
+- The 🎖️**5th place winner** out of 128 teams in **NIST** Face Recognition Vendor Test (**FRVT**) - Face Mask Effects, 2020
+- **Outstanding Achievement Award** under the Research Domain, PENSEES Singapore, 2020
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+🏛️ **Academic Service**
+- [Committee](https://www.apsipa2025.org/wp/committee/), Local Arrangements Chair  @ IEEE APSIPA ASC, 2025
+- Scientific Committee for Frontiers in Deepfake Voice Detection and Beyond @ IEEE ASRU, 2025
+- Virtual Session Chair @ IEEE IALP, 2023
+- [Program Committee](https://www.asianlp.sg/conferences/iscslp2022/web/committees/) @ IEEE ISCSLP, 2022
+- Volunteer @ IEEE ICASSP, 2022
+  
+📝 **Reviewer**
+
+*Journal/Transactions/Letters:*
+- IEEE Transactions on Dependable and Secure Computing (TDSC) *'25*
+- Computer Speech & Language *'24*
+- IEEE Signal Processing Letters (SPL) - *'23, '24*
+
+*Conference:*
+- Conference on Neural Information Processing Systems (NeurIPS) - *'25* (Invitation Accepted)
+- IEEE Automatic Speech Recognition and Understanding Workshop (ASRU) - *'25* (Invitation Accepted)
+- IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) - *'23~'25*
+- INTERSPEECH - *'23~'25*
+- International Joint Conference on Neural Networks (IJCNN) *'25*
+- IEEE Spoken Language Technology Workshop (SLT) - *'24*
+- IEEE ISCSLP - *'22*
+- ASVspoof5 - *'24*
