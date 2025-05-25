@@ -17,9 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I'm an Accociate Professor at the [Faculty of Artificial Intelligence in Education](https://foaie.ccnu.edu.cn/) of [The Central China Normal University (CCNU)](https://www.ccnu.edu.cn/). I obtained my Ph.D. degree, Master's degree and Bachelor's degree from [The Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn), supervised by [Prof. Bang Wang](https://eic.hust.edu.cn/teacher/wangbang/index.htm). After that, I have spent times as a Postdoctoral Researcher at HUST, supervised by [Prof. Xiang Bai](http://faculty.hust.edu.cn/baixiang/zh_CN/more/1412472/jsjjgd/index.htm). 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests span the broad domain of natural language processing, knowledge graphs, and recommendation systems, with a current focus on information extraction, public opinion events and intelligence analysis.
+I have published nearly 30 papers in top international conferences and SCI journals such as ACL, COLING, EMNLP, ACM CSUR, Elsevier Neural Networks, ESWA, etc. <a href="https://scholar.google.com/citations?user=YrcnOxYAAAAJ"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fliu-tianchi%2Fliu-tianchi.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
+# 🔍 Research Area
 
 
 # 🔥 News
