@@ -40,11 +40,11 @@ I have published nearly 30 papers in top international conferences and SCI journ
 - [Evaluating Instructively Generated Statement by Large Language Models for directional Event Causality Identification](https://Jason-Xiang5231.github.io), **Wei Xiang**, Chuanhong Zhan, Qing Zhang, Bang Wang, **ACL-Findings 2025**
 
 
-# 🎖️ **Awards** 
+# 🎖️ Awards
 
 - **National Scholarship** for Doctoral Students, Ministry of Education of the People's Republic of China, 2023. 
 
-# 🏛️ **Academic Service**
+# 🏛️ Academic Service
 
 - [Committee](https://www.apsipa2025.org/wp/committee/), Local Arrangements Chair  @ IEEE APSIPA ASC, 2025
 - Scientific Committee for Frontiers in Deepfake Voice Detection and Beyond @ IEEE ASRU, 2025
@@ -52,7 +52,7 @@ I have published nearly 30 papers in top international conferences and SCI journ
 - [Program Committee](https://www.asianlp.sg/conferences/iscslp2022/web/committees/) @ IEEE ISCSLP, 2022
 - Volunteer @ IEEE ICASSP, 2022
   
-# 📝 **Reviewer**
+# 📝 Reviewer
 
 - Elsevier Neural Networks *'24, '25*
 - IEEE ACCESS *'23*
