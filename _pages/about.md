@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm an Accociate Professor at the Faculty of Artificial Intelligence in Education of The Central China Normal University [(CCNU)](https://www.ccnu.edu.cn/). I obtained my Ph.D. degree, Master's degree and Bachelor's degree from The Huazhong University of Science and Technology [(HUST)](https://www.hust.edu.cn), supervised by [Prof. Bang Wang](https://eic.hust.edu.cn/teacher/wangbang/index.htm). After that, I have spent times as a Postdoctoral Researcher at HUST, supervised by [Prof. Xiang Bai](http://faculty.hust.edu.cn/baixiang/zh_CN/more/1412472/jsjjgd/index.htm). 
+I'm an Accociate Professor at the Faculty of Artificial Intelligence in Education of The Central China Normal University[(CCNU)](https://www.ccnu.edu.cn/). I obtained my Ph.D. degree, Master's degree and Bachelor's degree from The Huazhong University of Science and Technology[(HUST)](https://www.hust.edu.cn), supervised by [Prof. Bang Wang](https://eic.hust.edu.cn/teacher/wangbang/index.htm). After that, I have spent times as a Postdoctoral Researcher at HUST, supervised by [Prof. Xiang Bai](http://faculty.hust.edu.cn/baixiang/zh_CN/more/1412472/jsjjgd/index.htm). 
 
 My research interests span the broad domain of natural language processing, knowledge graphs, and recommendation systems, with a current focus on information extraction, public opinion events and intelligence analysis.
 I have published nearly 30 papers in top international conferences and SCI journals such as ACL, COLING, EMNLP, ACM CSUR, Elsevier Neural Networks, ESWA, etc. <a href="https://scholar.google.com/citations?user=YrcnOxYAAAAJ"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FJason-Xiang5231%2FJason-Xiang5231.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
@@ -25,7 +25,7 @@ I have published nearly 30 papers in top international conferences and SCI journ
 # 💼 Work Experience
 
 - *2024.08 - Now*, Accociate Professor, Faculty of Artificial Intelligence in Education, Central China Normal University (CCNU), Wuhan, China.
-- *2024.02 - 2024.07*, Post-Doctoral Researcher, School of Software Engineering, Huazhong University of Science and Technology (HUST), Wuhan, China.
+- *2024.02 - 2024.07*, Postdoc Researcher, School of Software Engineering, Huazhong University of Science and Technology (HUST), Wuhan, China.
 - *2015.07 - 2020.08*, Student Counselor, School of Electronic Information and Communications, Huazhong University of Science and Technology (HUST), Wuhan, China.
 
 - # 🎓 Education
