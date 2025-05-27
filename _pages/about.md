@@ -22,8 +22,6 @@ I'm currently an Associate Professor at the Faculty of Artificial Intelligence i
 
 <span style="color: red;">Prospective students:</span> I am looking for master's students interested in scientific research to work together, as well as self-motivated undergraduate students to study in the research group. If you are interested in working with me, please drop me an email with your resume.
 
-I am looking for master’s students who are interested in scientific research. I hope to work together with them on large language models, natural language processing, and knowledge graphs. Also, I am seeking self-motivated undergraduate students who can study in the research group.”（通过断句和重复部分表述，使句子更清晰易懂）
-
 # 💼 Work Experiences
 - *2024.08 - Now*, Accociate Professor, Faculty of Artificial Intelligence in Education, Central China Normal University, Wuhan, China.
 - *2024.02 - 2024.07*, Postdoc Researcher, School of Software Engineering, Huazhong University of Science and Technology, Wuhan, China.
