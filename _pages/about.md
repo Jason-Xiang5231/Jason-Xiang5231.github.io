@@ -47,7 +47,7 @@ I'm currently an Accociate Professor at the Faculty of Artificial Intelligence i
 
 **Awards**
 - **National Scholarship** for Doctoral Students, Ministry of Education of the People's Republic of China, 2023. 
-- **Huawei Scholarship** for Doctoral Students, Huawei Technologies Co., Ltd., 2022. 
+- **Huawei Scholarship**, Huawei Technologies Co., Ltd., 2022. 
 
 **Academic Service**
 - Publicatioin Chair @ AIAHPC, 2025
