@@ -23,7 +23,7 @@ I'm currently an Associate Professor at the Faculty of Artificial Intelligence i
 <span style="color: red;">Prospective students:</span> I am looking for master's students interested in scientific research to work together, as well as self-motivated undergraduate students to study in the research group. If you are interested in working with me, please drop me an email with your resume.
 
 # 💼 Work Experiences
-- *2024.08 - Now*, Accociate Professor, Faculty of Artificial Intelligence in Education, Central China Normal University, Wuhan, China.
+- *2024.08 - Now*, Associate Professor, Faculty of Artificial Intelligence in Education, Central China Normal University, Wuhan, China.
 - *2024.02 - 2024.07*, Postdoc Researcher, School of Software Engineering, Huazhong University of Science and Technology, Wuhan, China.
 - *2015.07 - 2020.08*, Student Counselor, School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China.
 
