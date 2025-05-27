@@ -15,7 +15,9 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+
 <span class='anchor' id='about-me'></span>
+
 I'm currently an Accociate Professor at the Faculty of Artificial Intelligence in Education of The [Central China Normal University(CCNU)](https://www.ccnu.edu.cn/). Previously, I obtained my Ph.D. in Information and Communication Engineering from Huazhong University of Science and Technology[(HUST)](https://www.hust.edu.cn), supervised by [Prof. Bang Wang](https://eic.hust.edu.cn/teacher/wangbang/index.htm). After that, I have spent times as a Postdoctoral Researcher at HUST, supervised by [Prof. Xiang Bai](http://faculty.hust.edu.cn/baixiang/zh_CN/more/1412472/jsjjgd/index.htm). My research interests cover the broad area of large-scale language model, natural language processing, knowledge graphs, and recommendation systems, with a current focus on information extraction, public opinion events and intelligence analysis. I have published nearly 30 papers in the top international AI conferences and journals such as ACL, COLING, EMNLP, CSUR, Neu.Net., ESWA, etc. <a href="https://scholar.google.com/citations?user=YrcnOxYAAAAJ"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FJason-Xiang5231%2FJason-Xiang5231.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <p style="color: red;">Prospective students: </p>I am looking for master's students interested in scientific research to work together on large language models, natural language processing, and knowledge graphs, as well as self-motivated undergraduate students to study in the research group. If you are interested in working with me, please drop me an email with your resume.
@@ -38,18 +40,19 @@ I'm currently an Accociate Professor at the Faculty of Artificial Intelligence i
 - ``ACL-Findings 2025`` [Evaluating Instructively Generated Statement by Large Language Models for directional Event Causality Identification](https://Jason-Xiang5231.github.io), **W. Xiang**, C. Zhan, Q. Zhang, B. Wang.
 
 
-<span class='anchor' id='awards'></span>
-# 🎖️ Awards
+<span class='anchor' id='awards-and-service'></span>
+# 🎖️ Awards and Service
+
+**Awards**
 - **National Scholarship** for Doctoral Students, Ministry of Education of the People's Republic of China, 2023. 
 - **Huawei Scholarship** for Doctoral Students, Huawei Technologies Co., Ltd., 2022. 
 
-<span class='anchor' id='academic-service'></span>
-# 🏛️ Academic Service
+**Academic Service**
 - Publicatioin Chair @ AIAHPC, 2025
 - Session Chair  @ IEEE HPCC, 2024
 - Session Chair  @ IEEE HPCC, 2022
 
-# 📝 Reviewer
+**Reviewer**
 - Neural Networks (Elsevier)
 - IEEE ACCESS
 - ACL, - *'25, '24, '23, '22*
