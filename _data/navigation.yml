@@ -12,11 +12,5 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Awards"
-    url: "/#awards"
-    
-  - title: "Academic Service"
-    url: "/#academic-service"
-
-  - title: "Reviewer"
-    url: "/#-reviewer"
+  - title: "Awards and Service"
+    url: "/#awards-and-service"
