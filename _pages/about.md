@@ -48,7 +48,6 @@ I'm currently an Associate Professor at the Faculty of Artificial Intelligence i
 - ``NLPCC 2024`` [Retrieval-Enhanced Template Generation for Template Extraction](https://Jason-Xiang5231.github.io), R. Wang, **W. Xiang**, Z. Wang, B. Wang.
 - ``NLPCC 2024`` [Bias-Rectified Multi-way Learning with Data Augmentation for Implicit Discourse Relation Recognition](https://Jason-Xiang5231.github.io), Z. Zheng, C. Liang, **W. Xiang**, B. Wang.
 
-  
 <span class='anchor' id='awards-and-service'></span>
 # 🎖️ Awards and Service
 
