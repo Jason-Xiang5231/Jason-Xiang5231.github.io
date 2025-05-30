@@ -37,7 +37,11 @@ I'm currently an Associate Professor at the Faculty of Artificial Intelligence i
 - ``Neur.Netw. 2025`` [Modeling Document Causal Structure with a Hypergraph for Event Causality Identification](https://Jason-Xiang5231.github.io), Neural Networks (Elsevier), **W. Xiang**, C. Liu, B. Wang.
 - ``TASLP 2025`` [Adaptive Prompt Learning with Distilled Connective Knowledge for Implicit Discourse Relation Recognition](https://Jason-Xiang5231.github.io), IEEE/ACM Transactions on Audio, Speech, and Language Processing, B. Wang, Z. Wang, **W. Xiang**, Y. Mo.
 - ``CSL 2025`` [Modeling correlated causal-effect structure with a hypergraph for document-level event causality identification](https://Jason-Xiang5231.github.io), Computer Speech and Language (Elsevier), **W. Xiang**, C. Liu, B. Wang.
-- ``NCAA 2024`` [Parsing and Encoding Interactive Phrase Structure for Implicit Discourse Relation Recognition](https://Jason-Xiang5231.github.io), Neural Computing and Applications (Springer), **W. Xiang**, S. Liu, B. Wang. 
+- ``NCAA 2024`` [Parsing and Encoding Interactive Phrase Structure for Implicit Discourse Relation Recognition](https://Jason-Xiang5231.github.io), Neural Computing and Applications (Springer), **W. Xiang**, S. Liu, B. Wang.
+- ``CSUR 2024`` [A Survey of Implicit Discourse Relation Recognition](https://Jason-Xiang5231.github.io), ACM Computing Surveys, **W. Xiang**, B. Wang.
+- ``ESWA 2024`` [A graph-enhanced attention model for community detection in multiplex networks](https://Jason-Xiang5231.github.io), Expert Systems With Applications (Elsevier), B. Wang, X. Cai, M. Xu, **W. Xiang**.
+- ``NPL 2023`` [Modeling Character-Word Interaction via a Novel Mesh Transformer for Chinese Event Detection](https://Jason-Xiang5231.github.io), Neural Processing Letters (Springer), L. Dai, B. Wang, **W. Xiang**, Y. Mo.
+- ``Sensors 2023`` [RadarPDR: Radar-Assisted Indoor Pedestrian Dead Reckoning](https://Jason-Xiang5231.github.io), J. He, **W. Xiang**, Q. Zhang, B. Wang.
 
 #### Conference Papers
 - ``ACL 2025`` [Evaluating Instructively Generated Statement by Large Language Models for directional Event Causality Identification](https://Jason-Xiang5231.github.io) (Findings), **W. Xiang**, C. Zhan, Q. Zhang, B. Wang.
@@ -47,6 +51,8 @@ I'm currently an Associate Professor at the Faculty of Artificial Intelligence i
 - ``EMNLP 2024`` [What Would Happen Next? Predicting Consequences from An Event Causality Graph](https://Jason-Xiang5231.github.io) (Findings), C. Zhan, **W. Xiang**, C. Liang, B. Wang.
 - ``NLPCC 2024`` [Retrieval-Enhanced Template Generation for Template Extraction](https://Jason-Xiang5231.github.io), R. Wang, **W. Xiang**, Z. Wang, B. Wang.
 - ``NLPCC 2024`` [Bias-Rectified Multi-way Learning with Data Augmentation for Implicit Discourse Relation Recognition](https://Jason-Xiang5231.github.io), Z. Zheng, C. Liang, **W. Xiang**, B. Wang.
+- ``ACL 2023`` [TEPrompt: Task Enlightenment Prompt Learning for Implicit Discourse Relation Recognition](https://Jason-Xiang5231.github.io) (Findings), **W. Xiang**, C. Liang, B. Wang.
+- ``EMNLP 2023`` [Ideology Takes Multiple Looks: A High-Quality Dataset for Multifaceted Ideology Detection](https://Jason-Xiang5231.github.io), S. Liu, Z. Luo, M. Xu, L. Wei, Z. Wei, H. Yu, **W. Xiang**, B. Wang.
 
 <span class='anchor' id='awards-and-service'></span>
 # 🎖️ Awards and Service
