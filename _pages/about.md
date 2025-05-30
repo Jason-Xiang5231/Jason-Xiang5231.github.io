@@ -41,10 +41,6 @@ I'm currently an Associate Professor at the Faculty of Artificial Intelligence i
 - ``CSUR 2024`` [A Survey of Implicit Discourse Relation Recognition](https://Jason-Xiang5231.github.io), ACM Computing Surveys, **W. Xiang**, B. Wang.
 - ``ESWA 2024`` [A graph-enhanced attention model for community detection in multiplex networks](https://Jason-Xiang5231.github.io), Expert Systems With Applications (Elsevier), B. Wang, X. Cai, M. Xu, **W. Xiang**.
 - ``NPL 2023`` [Modeling Character-Word Interaction via a Novel Mesh Transformer for Chinese Event Detection](https://Jason-Xiang5231.github.io), Neural Processing Letters (Springer), L. Dai, B. Wang, **W. Xiang**, Y. Mo.
-<!-- 
-- ``Sensors 2023`` [RadarPDR: Radar-Assisted Indoor Pedestrian Dead Reckoning](https://Jason-Xiang5231.github.io), J. He, **W. Xiang**, Q. Zhang, B. Wang.
-- ``Appl. Sci. 2022`` [Cross-Modal Image Registration via Rasterized Parameter Prediction for Object Tracking](https://Jason-Xiang5231.github.io), Applied Sciences-Basel, Q. Zhang, **W. Xiang**.
--->
 - ``Appl.Intel. 2022`` [A Syntactic Distance Sensitive Neural Network for Event Argument Extraction](https://Jason-Xiang5231.github.io), Applied Intelligence (Springer), L. Dai, B. Wang, **W. Xiang**, Y. Mo.
 - ``ACCESS 2020`` [A Survey of Event Extraction from Text](https://Jason-Xiang5231.github.io), IEEE ACCESS, **W. Xiang**, B. Wang. 
   
