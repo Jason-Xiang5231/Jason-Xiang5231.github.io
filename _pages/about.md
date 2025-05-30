@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/5aebd7ae-79b8-43bd-a3ae-cc496fbc690a)---
 permalink: /
 title: ""
 excerpt: ""
@@ -41,8 +41,13 @@ I'm currently an Associate Professor at the Faculty of Artificial Intelligence i
 - ``CSUR 2024`` [A Survey of Implicit Discourse Relation Recognition](https://Jason-Xiang5231.github.io), ACM Computing Surveys, **W. Xiang**, B. Wang.
 - ``ESWA 2024`` [A graph-enhanced attention model for community detection in multiplex networks](https://Jason-Xiang5231.github.io), Expert Systems With Applications (Elsevier), B. Wang, X. Cai, M. Xu, **W. Xiang**.
 - ``NPL 2023`` [Modeling Character-Word Interaction via a Novel Mesh Transformer for Chinese Event Detection](https://Jason-Xiang5231.github.io), Neural Processing Letters (Springer), L. Dai, B. Wang, **W. Xiang**, Y. Mo.
+<!-- 
 - ``Sensors 2023`` [RadarPDR: Radar-Assisted Indoor Pedestrian Dead Reckoning](https://Jason-Xiang5231.github.io), J. He, **W. Xiang**, Q. Zhang, B. Wang.
-
+- ``Appl. Sci. 2022`` [Cross-Modal Image Registration via Rasterized Parameter Prediction for Object Tracking](https://Jason-Xiang5231.github.io), Applied Sciences-Basel, Q. Zhang, **W. Xiang**.
+-->
+- ``Appl.Intel. 2022`` [A Syntactic Distance Sensitive Neural Network for Event Argument Extraction](https://Jason-Xiang5231.github.io), Applied Intelligence (Springer), L. Dai, B. Wang, **W. Xiang**, Y. Mo.
+- ``ACCESS 2020`` [A Survey of Event Extraction from Text](https://Jason-Xiang5231.github.io), IEEE ACCESS, **W. Xiang**, B. Wang. 
+  
 #### Conference Papers
 - ``ACL 2025`` [Evaluating Instructively Generated Statement by Large Language Models for directional Event Causality Identification](https://Jason-Xiang5231.github.io) (Findings), **W. Xiang**, C. Zhan, Q. Zhang, B. Wang.
 - ``ACL 2024`` [Identifying while Learning for Document Event Causality Identification](https://Jason-Xiang5231.github.io), C. Liu, **W. Xiang**, B. Wang.
@@ -53,6 +58,12 @@ I'm currently an Associate Professor at the Faculty of Artificial Intelligence i
 - ``NLPCC 2024`` [Bias-Rectified Multi-way Learning with Data Augmentation for Implicit Discourse Relation Recognition](https://Jason-Xiang5231.github.io), Z. Zheng, C. Liang, **W. Xiang**, B. Wang.
 - ``ACL 2023`` [TEPrompt: Task Enlightenment Prompt Learning for Implicit Discourse Relation Recognition](https://Jason-Xiang5231.github.io) (Findings), **W. Xiang**, C. Liang, B. Wang.
 - ``EMNLP 2023`` [Ideology Takes Multiple Looks: A High-Quality Dataset for Multifaceted Ideology Detection](https://Jason-Xiang5231.github.io), S. Liu, Z. Luo, M. Xu, L. Wei, Z. Wei, H. Yu, **W. Xiang**, B. Wang.
+- ``COLING 2022`` [ConnPrompt: Connective-Cloze Prompt Learning for Implicit Discourse Relation Recognition](https://Jason-Xiang5231.github.io), **W. Xiang**, Z. Wang, L. Dai, B. Wang.
+- ``ACL 2022`` [Encoding and Fusing Semantic Connection and Linguistic Evidence for Implicit Discourse Relation Recognition](https://Jason-Xiang5231.github.io) (Findings), **W. Xiang**, B. Wang, L. Dai, Y. Mo.
+- ``EMNLP 2022`` [Bi-Directional Iterative Prompt-Tuning for Event Argument Extraction](https://Jason-Xiang5231.github.io), L. Dai, B. Wang, **W. Xiang**, Y. Mo. 
+- ``PAKDD 2022`` [A Hybrid Semantic-Topic Co-encoding Network for Social Emotion Classification](https://Jason-Xiang5231.github.io), L. Dai, B. Wang, **W. Xiang**, M. Xu, H. Xu. 
+- ``NLPCC 2021`` [Event Argument Extraction via a Distance-Sensitive Graph Convolutional Network](https://Jason-Xiang5231.github.io), L. Dai, B. Wang, **W. Xiang**, Y. Mo. 
+- ``SIGIR 2019`` [Encoding Syntactic Dependency and Topical Information for Social Emotion Classification](https://Jason-Xiang5231.github.io), C. Wang, B. Wang, **W. Xiang**, M. Xu.
 
 <span class='anchor' id='awards-and-service'></span>
 # 🎖️ Awards and Service
