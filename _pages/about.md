@@ -32,7 +32,7 @@ I'm currently an Associate Professor at the Faculty of Artificial Intelligence i
 - *2013.09 - 2015.06*, M.Mgt. in Administrative Management, Huazhong University of Science and Technology, Wuhan, China.
 - *2007.09 - 2011.06*, B.Eng. in Electronic Information Engineering, Huazhong University of Science and Technology, Wuhan, China.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 #### Journal Papers
 - ``Neur.Netw. 2025`` [Modeling Document Causal Structure with a Hypergraph for Event Causality Identification](https://Jason-Xiang5231.github.io), Neural Networks (Elsevier), **W. Xiang**, C. Liu, B. Wang.
 - ``TASLP 2025`` [Adaptive Prompt Learning with Distilled Connective Knowledge for Implicit Discourse Relation Recognition](https://Jason-Xiang5231.github.io), IEEE/ACM Transactions on Audio, Speech, and Language Processing, B. Wang, Z. Wang, **W. Xiang**, Y. Mo.
