@@ -9,8 +9,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
     
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Selected Publications"
+    url: "/#selected-publications"
 
   - title: "Awards and Service"
     url: "/#awards-and-service"
