@@ -35,15 +35,15 @@ I'm currently an Associate Professor at the Faculty of Artificial Intelligence i
 <span class='anchor' id='selected-publications'></span>
 # 📝 Selected Publications 
 #### Journal Papers
-- ``Neur.Netw. 2025`` [Modeling Document Causal Structure with a Hypergraph for Event Causality Identification](https://Jason-Xiang5231.github.io), Neural Networks (Elsevier), **W. Xiang**, C. Liu, B. Wang.
-- ``TASLP 2025`` [Adaptive Prompt Learning with Distilled Connective Knowledge for Implicit Discourse Relation Recognition](https://Jason-Xiang5231.github.io), IEEE/ACM Transactions on Audio, Speech, and Language Processing, B. Wang, Z. Wang, **W. Xiang**, Y. Mo.
-- ``CSL 2025`` [Modeling correlated causal-effect structure with a hypergraph for document-level event causality identification](https://Jason-Xiang5231.github.io), Computer Speech and Language (Elsevier), **W. Xiang**, C. Liu, B. Wang.
-- ``NCAA 2024`` [Parsing and Encoding Interactive Phrase Structure for Implicit Discourse Relation Recognition](https://Jason-Xiang5231.github.io), Neural Computing and Applications (Springer), **W. Xiang**, S. Liu, B. Wang.
-- ``CSUR 2024`` [A Survey of Implicit Discourse Relation Recognition](https://Jason-Xiang5231.github.io), ACM Computing Surveys, **W. Xiang**, B. Wang.
-- ``ESWA 2024`` [A graph-enhanced attention model for community detection in multiplex networks](https://Jason-Xiang5231.github.io), Expert Systems With Applications (Elsevier), B. Wang, X. Cai, M. Xu, **W. Xiang**.
-- ``NPL 2023`` [Modeling Character-Word Interaction via a Novel Mesh Transformer for Chinese Event Detection](https://Jason-Xiang5231.github.io), Neural Processing Letters (Springer), L. Dai, B. Wang, **W. Xiang**, Y. Mo.
-- ``Appl.Intel. 2022`` [A Syntactic Distance Sensitive Neural Network for Event Argument Extraction](https://Jason-Xiang5231.github.io), Applied Intelligence (Springer), L. Dai, B. Wang, **W. Xiang**, Y. Mo.
-- ``ACCESS 2020`` [A Survey of Event Extraction from Text](https://Jason-Xiang5231.github.io), IEEE ACCESS, **W. Xiang**, B. Wang. 
+- ``Neur.Netw. 2025`` [Modeling Document Causal Structure with a Hypergraph for Event Causality Identification](https://www.sciencedirect.com/science/article/abs/pii/S0893608024010098), Neural Networks (Elsevier), **W. Xiang**, C. Liu, B. Wang.
+- ``TASLP 2025`` [Adaptive Prompt Learning with Distilled Connective Knowledge for Implicit Discourse Relation Recognition](https://ieeexplore.ieee.org/document/10833725), IEEE/ACM Transactions on Audio, Speech, and Language Processing, B. Wang, Z. Wang, **W. Xiang**, Y. Mo.
+- ``CSL 2025`` [Modeling correlated causal-effect structure with a hypergraph for document-level event causality identification](https://www.sciencedirect.com/science/article/abs/pii/S0885230824001359), Computer Speech and Language (Elsevier), **W. Xiang**, C. Liu, B. Wang.
+- ``NCAA 2024`` [Parsing and Encoding Interactive Phrase Structure for Implicit Discourse Relation Recognition](https://link.springer.com/article/10.1007/s00521-024-09709-8), Neural Computing and Applications (Springer), **W. Xiang**, S. Liu, B. Wang.
+- ``CSUR 2024`` [A Survey of Implicit Discourse Relation Recognition](https://dl.acm.org/doi/10.1145/3574134), ACM Computing Surveys, **W. Xiang**, B. Wang.
+- ``ESWA 2024`` [A graph-enhanced attention model for community detection in multiplex networks](https://www.sciencedirect.com/science/article/abs/pii/S0957417423010540), Expert Systems With Applications (Elsevier), B. Wang, X. Cai, M. Xu, **W. Xiang**.
+- ``NPL 2023`` [Modeling Character-Word Interaction via a Novel Mesh Transformer for Chinese Event Detection](https://link.springer.com/article/10.1007/s11063-023-11382-2), Neural Processing Letters (Springer), L. Dai, B. Wang, **W. Xiang**, Y. Mo.
+- ``Appl.Intel. 2022`` [A Syntactic Distance Sensitive Neural Network for Event Argument Extraction](https://link.springer.com/article/10.1007/s10489-022-03598-x), Applied Intelligence (Springer), L. Dai, B. Wang, **W. Xiang**, Y. Mo.
+- ``ACCESS 2020`` [A Survey of Event Extraction from Text](https://ieeexplore.ieee.org/document/8918013), IEEE ACCESS, **W. Xiang**, B. Wang. 
   
 #### Conference Papers
 - ``ACL 2025`` [Evaluating Instructively Generated Statement by Large Language Models for directional Event Causality Identification](https://Jason-Xiang5231.github.io) (Findings), **W. Xiang**, C. Zhan, Q. Zhang, B. Wang.
