@@ -47,20 +47,20 @@ I'm currently an Associate Professor at the Faculty of Artificial Intelligence i
   
 #### Conference Papers
 - ``ACL 2025`` [Evaluating Instructively Generated Statement by Large Language Models for directional Event Causality Identification](https://Jason-Xiang5231.github.io) (Findings), **W. Xiang**, C. Zhan, Q. Zhang, B. Wang.
-- ``ACL 2024`` [Identifying while Learning for Document Event Causality Identification](https://Jason-Xiang5231.github.io), C. Liu, **W. Xiang**, B. Wang.
-- ``ACL 2024`` [Encoding Hierarchical Schema via Concept Flow for Multifaceted Ideology Detection](https://Jason-Xiang5231.github.io) (Findings), S. Liu, B. Wang, **W. Xiang**, H. Xu, M. Xu. 
-- ``EMNLP 2024`` [In-context Contrastive Learning for Event Causality Identification](https://Jason-Xiang5231.github.io), C. Liang, **W. Xiang**, B. Wang.
-- ``EMNLP 2024`` [What Would Happen Next? Predicting Consequences from An Event Causality Graph](https://Jason-Xiang5231.github.io) (Findings), C. Zhan, **W. Xiang**, C. Liang, B. Wang.
-- ``NLPCC 2024`` [Retrieval-Enhanced Template Generation for Template Extraction](https://Jason-Xiang5231.github.io), R. Wang, **W. Xiang**, Z. Wang, B. Wang.
-- ``NLPCC 2024`` [Bias-Rectified Multi-way Learning with Data Augmentation for Implicit Discourse Relation Recognition](https://Jason-Xiang5231.github.io), Z. Zheng, C. Liang, **W. Xiang**, B. Wang.
-- ``ACL 2023`` [TEPrompt: Task Enlightenment Prompt Learning for Implicit Discourse Relation Recognition](https://Jason-Xiang5231.github.io) (Findings), **W. Xiang**, C. Liang, B. Wang.
-- ``EMNLP 2023`` [Ideology Takes Multiple Looks: A High-Quality Dataset for Multifaceted Ideology Detection](https://Jason-Xiang5231.github.io), S. Liu, Z. Luo, M. Xu, L. Wei, Z. Wei, H. Yu, **W. Xiang**, B. Wang.
-- ``COLING 2022`` [ConnPrompt: Connective-Cloze Prompt Learning for Implicit Discourse Relation Recognition](https://Jason-Xiang5231.github.io), **W. Xiang**, Z. Wang, L. Dai, B. Wang.
-- ``ACL 2022`` [Encoding and Fusing Semantic Connection and Linguistic Evidence for Implicit Discourse Relation Recognition](https://Jason-Xiang5231.github.io) (Findings), **W. Xiang**, B. Wang, L. Dai, Y. Mo.
-- ``EMNLP 2022`` [Bi-Directional Iterative Prompt-Tuning for Event Argument Extraction](https://Jason-Xiang5231.github.io), L. Dai, B. Wang, **W. Xiang**, Y. Mo. 
-- ``PAKDD 2022`` [A Hybrid Semantic-Topic Co-encoding Network for Social Emotion Classification](https://Jason-Xiang5231.github.io), L. Dai, B. Wang, **W. Xiang**, M. Xu, H. Xu. 
-- ``NLPCC 2021`` [Event Argument Extraction via a Distance-Sensitive Graph Convolutional Network](https://Jason-Xiang5231.github.io), L. Dai, B. Wang, **W. Xiang**, Y. Mo. 
-- ``SIGIR 2019`` [Encoding Syntactic Dependency and Topical Information for Social Emotion Classification](https://Jason-Xiang5231.github.io), C. Wang, B. Wang, **W. Xiang**, M. Xu.
+- ``ACL 2024`` [Identifying while Learning for Document Event Causality Identification](https://aclanthology.org/2024.acl-long.210/), C. Liu, **W. Xiang**, B. Wang.
+- ``ACL 2024`` [Encoding Hierarchical Schema via Concept Flow for Multifaceted Ideology Detection](https://aclanthology.org/2024.findings-acl.172/) (Findings), S. Liu, B. Wang, **W. Xiang**, H. Xu, M. Xu. 
+- ``EMNLP 2024`` [In-context Contrastive Learning for Event Causality Identification](https://aclanthology.org/2024.emnlp-main.51/), C. Liang, **W. Xiang**, B. Wang.
+- ``EMNLP 2024`` [What Would Happen Next? Predicting Consequences from An Event Causality Graph](https://aclanthology.org/2024.findings-emnlp.45/) (Findings), C. Zhan, **W. Xiang**, C. Liang, B. Wang.
+- ``NLPCC 2024`` [Retrieval-Enhanced Template Generation for Template Extraction](https://link.springer.com/chapter/10.1007/978-981-97-9431-7_29), R. Wang, **W. Xiang**, Z. Wang, B. Wang.
+- ``NLPCC 2024`` [Bias-Rectified Multi-way Learning with Data Augmentation for Implicit Discourse Relation Recognition](https://link.springer.com/chapter/10.1007/978-981-97-9431-7_28), Z. Zheng, C. Liang, **W. Xiang**, B. Wang.
+- ``ACL 2023`` [TEPrompt: Task Enlightenment Prompt Learning for Implicit Discourse Relation Recognition](https://aclanthology.org/2023.findings-acl.785/) (Findings), **W. Xiang**, C. Liang, B. Wang.
+- ``EMNLP 2023`` [Ideology Takes Multiple Looks: A High-Quality Dataset for Multifaceted Ideology Detection](https://aclanthology.org/2023.emnlp-main.256/), S. Liu, Z. Luo, M. Xu, L. Wei, Z. Wei, H. Yu, **W. Xiang**, B. Wang.
+- ``COLING 2022`` [ConnPrompt: Connective-Cloze Prompt Learning for Implicit Discourse Relation Recognition](https://aclanthology.org/2022.coling-1.75/), **W. Xiang**, Z. Wang, L. Dai, B. Wang.
+- ``ACL 2022`` [Encoding and Fusing Semantic Connection and Linguistic Evidence for Implicit Discourse Relation Recognition](https://aclanthology.org/2022.findings-acl.256/) (Findings), **W. Xiang**, B. Wang, L. Dai, Y. Mo.
+- ``EMNLP 2022`` [Bi-Directional Iterative Prompt-Tuning for Event Argument Extraction](https://aclanthology.org/2022.emnlp-main.419/), L. Dai, B. Wang, **W. Xiang**, Y. Mo. 
+- ``PAKDD 2022`` [A Hybrid Semantic-Topic Co-encoding Network for Social Emotion Classification](https://link.springer.com/chapter/10.1007/978-3-031-05933-9_46), L. Dai, B. Wang, **W. Xiang**, M. Xu, H. Xu. 
+- ``NLPCC 2021`` [Event Argument Extraction via a Distance-Sensitive Graph Convolutional Network](https://link.springer.com/chapter/10.1007/978-3-030-88483-3_5), L. Dai, B. Wang, **W. Xiang**, Y. Mo. 
+- ``SIGIR 2019`` [Encoding Syntactic Dependency and Topical Information for Social Emotion Classification](https://dl.acm.org/doi/10.1145/3331184.3331287), C. Wang, B. Wang, **W. Xiang**, M. Xu.
 
 <span class='anchor' id='awards-and-service'></span>
 # 🎖️ Awards and Service
