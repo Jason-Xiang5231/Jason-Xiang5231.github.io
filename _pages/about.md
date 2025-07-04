@@ -38,6 +38,8 @@ I'm currently an Associate Professor at the Faculty of Artificial Intelligence i
 - ``Neur.Netw. 2025`` [Modeling Document Causal Structure with a Hypergraph for Event Causality Identification](https://www.sciencedirect.com/science/article/abs/pii/S0893608024010098), Neural Networks (Elsevier), **W. Xiang**, C. Liu, B. Wang.
 - ``TASLP 2025`` [Adaptive Prompt Learning with Distilled Connective Knowledge for Implicit Discourse Relation Recognition](https://ieeexplore.ieee.org/document/10833725), IEEE/ACM Transactions on Audio, Speech, and Language Processing, B. Wang, Z. Wang, **W. Xiang**, Y. Mo.
 - ``CSL 2025`` [Modeling correlated causal-effect structure with a hypergraph for document-level event causality identification](https://www.sciencedirect.com/science/article/abs/pii/S0885230824001359), Computer Speech and Language (Elsevier), **W. Xiang**, C. Liu, B. Wang.
+- ``NCAA 2025`` [DAPrompt: Deterministic Assumption Prompt Learning for Event Causality Identification.](https://Jason-Xiang.github.io), Neural Computing and Applications (Springer), **W. Xiang**, C. Zhan, Q. Zhang, B. Wang.
+
 - ``NCAA 2024`` [Parsing and Encoding Interactive Phrase Structure for Implicit Discourse Relation Recognition](https://link.springer.com/article/10.1007/s00521-024-09709-8), Neural Computing and Applications (Springer), **W. Xiang**, S. Liu, B. Wang.
 - ``CSUR 2023`` [A Survey of Implicit Discourse Relation Recognition](https://dl.acm.org/doi/10.1145/3574134), ACM Computing Surveys, **W. Xiang**, B. Wang.
 - ``ESWA 2023`` [A graph-enhanced attention model for community detection in multiplex networks](https://www.sciencedirect.com/science/article/abs/pii/S0957417423010540), Expert Systems With Applications (Elsevier), B. Wang, X. Cai, M. Xu, **W. Xiang**.
