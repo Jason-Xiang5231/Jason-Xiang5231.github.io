@@ -76,6 +76,6 @@ I'm currently an Associate Professor at the Faculty of Artificial Intelligence i
 - **Session Chair**  @ IEEE HPCC, 2024, 2022
 
 **Reviewer**
-- **IEEE Transactions on Neural Networks and Learning Systems** (TNNLS), **Elsevier Neural Networks**, **IEEE ACCESS**, **Springer Multimedia Systems**.
+- **TNNLS** (IEEE Transactions on Neural Networks and Learning Systems), **IEEE ACCESS**, Elsevier **Neural Networks**, **ESWA** (Expert Systems with Applications), Springer **Multimedia Systems**.
 - **ACL** ('25, '24, '23, '22), **NAACL** ('25, '24, '23), **EMNLP** ('24, '23), **ECAI** ('23)， **NLPCC** （‘25, '24).
 
