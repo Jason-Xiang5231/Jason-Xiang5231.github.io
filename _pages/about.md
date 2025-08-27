@@ -72,10 +72,12 @@ I'm currently an Associate Professor at the Faculty of Artificial Intelligence i
 - **Huawei Scholarship**, Huawei Technologies Co., Ltd., 2022. 
 
 **Academic Service**
-- **Publicatioin Chair** @ AIAHPC, 2025
+- **Program Committee** @ ICPADS, 2025, AIAHPC, 2025
 - **Session Chair**  @ IEEE HPCC, 2024, 2022
 
 **Reviewer**
-- **TNNLS** (IEEE Transactions on Neural Networks and Learning Systems), **IEEE ACCESS**, Elsevier **Neural Networks**, **ESWA** (Expert Systems with Applications), Springer **Multimedia Systems**.
+- IEEE **TNNLS**, **IEEE ACCESS**
+- Elsevier **ESWA**, **Neural Networks**
+- Springer **Multimedia Systems**
 - **ACL** ('25, '24, '23, '22), **NAACL** ('25, '24, '23), **EMNLP** ('24, '23), **ECAI** ('23)， **NLPCC** （‘25, '24).
 
