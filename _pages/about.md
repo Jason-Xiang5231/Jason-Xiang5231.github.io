@@ -72,7 +72,7 @@ I'm currently an Associate Professor at the Faculty of Artificial Intelligence i
 - **Huawei Scholarship**, Huawei Technologies Co., Ltd., 2022. 
 
 **Academic Service**
-- **Program Committee** @ ICPADS, 2025, AIAHPC, 2025
+- **Program Committee** @ ICPADS, 2025, AIAHPC, 2025, TrustCom 2025
 - **Session Chair**  @ IEEE HPCC, 2024, 2022
 
 **Reviewer**
