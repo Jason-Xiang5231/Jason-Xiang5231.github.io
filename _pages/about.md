@@ -79,7 +79,7 @@ I'm currently an Associate Professor at the Faculty of Artificial Intelligence i
 
 **Reviewer**
 - ``IEEE`` **TNNLS**, **IEEE ACCESS**
-- ``Elsevier`` **ESWA**, **Neural Networks**, **Neurocomputing**
+- ``Elsevier`` **ESWA**, **Neural Networks**, **Neurocomputing**, **EAAI**
 - ``Springer`` **Multimedia Systems**
 - **ACL** ('25, '24, '23, '22), **NAACL** ('25, '24, '23), **EMNLP** ('24, '23), **ECAI** ('23)， **NLPCC** （‘25, '24).
 
