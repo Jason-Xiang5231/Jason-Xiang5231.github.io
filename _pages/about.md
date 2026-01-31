@@ -46,14 +46,20 @@ I'm currently an Associate Professor at the Faculty of Artificial Intelligence i
 - ``ESWA 2023`` [A graph-enhanced attention model for community detection in multiplex networks](https://www.sciencedirect.com/science/article/abs/pii/S0957417423010540), Expert Systems With Applications (Elsevier), B. Wang, X. Cai, M. Xu and **W. Xiang**.
 - ``NPL 2023`` [Modeling Character-Word Interaction via a Novel Mesh Transformer for Chinese Event Detection](https://link.springer.com/article/10.1007/s11063-023-11382-2), Neural Processing Letters (Springer), L. Dai, B. Wang, **W. Xiang** and Y. Mo.
 - ``Appl.Intel. 2022`` [A Syntactic Distance Sensitive Neural Network for Event Argument Extraction](https://link.springer.com/article/10.1007/s10489-022-03598-x), Applied Intelligence (Springer), L. Dai, B. Wang, **W. Xiang** and Y. Mo.
+<!-- 
+- ``MDPI Applied Science 2023`` [Cross-Modal Image Registration via Rasterized Parameter Prediction for Object Tracking](https://www.mdpi.com/2076-3417/13/9/5359), Qing Zhang, **Wei Xiang**.
+-->
+<!-- 
+- ``MDPI Sensors 2023`` [RadarPDR: Radar-Assisted Indoor Pedestrian Dead Reckoning](https://pmc.ncbi.nlm.nih.gov/articles/PMC10007269/), Jianbiao He, **Wei Xiang**, Qing Zhang, Bang Wang.
+-->
 - ``ACCESS 2020`` [A Survey of Event Extraction from Text](https://ieeexplore.ieee.org/document/8918013), IEEE ACCESS, **W. Xiang** and B. Wang. 
   
 #### Conference Papers
 <!-- 
-- ``TrustCom 2025`` [TLSA: Transfer Learning Enhanced Link Stealing Attacks on Graph Neural Networks](https://Jason-Xiang5231.github.io), Zhenkun Jin, Jiaqi Ma, Yuanyuan He, Wei Xiang, Qiankun Zhang, Tao Zhang.
+- ``TrustCom 2025`` [TLSA: Transfer Learning Enhanced Link Stealing Attacks on Graph Neural Networks](https://Jason-Xiang5231.github.io), Zhenkun Jin, Jiaqi Ma, Yuanyuan He, **Wei Xiang**, Qiankun Zhang, Tao Zhang.
 -->
 - ``ACL 2025`` [Evaluating Instructively Generated Statement by Large Language Models for directional Event Causality Identification](https://Jason-Xiang5231.github.io) (Findings), **W. Xiang**, C. Zhan, Q. Zhang and B. Wang.
-- ``ICPADS 2025`` [SecFinder: An IoT Device Identification System Based on Flow-level Traffic in Smart Home](https://ieeexplore.ieee.org/document/11323115), Ning Zhang, Suning Chen, Shenghao Liu, Xianjun Deng, Yuanyuan He, Wei Xiang, Meng Li.
+- ``ICPADS 2025`` [SecFinder: An IoT Device Identification System Based on Flow-level Traffic in Smart Home](https://ieeexplore.ieee.org/document/11323115), Ning Zhang, Suning Chen, Shenghao Liu, Xianjun Deng, Yuanyuan He, **Wei Xiang**, Meng Li.
 - ``ACL 2024`` [Identifying while Learning for Document Event Causality Identification](https://aclanthology.org/2024.acl-long.210/), C. Liu, **W. Xiang** and B. Wang.
 - ``ACL 2024`` [Encoding Hierarchical Schema via Concept Flow for Multifaceted Ideology Detection](https://aclanthology.org/2024.findings-acl.172/) (Findings), S. Liu, B. Wang, **W. Xiang**, H. Xu and M. Xu. 
 - ``EMNLP 2024`` [In-context Contrastive Learning for Event Causality Identification](https://aclanthology.org/2024.emnlp-main.51/), C. Liang, **W. Xiang** and B. Wang.
