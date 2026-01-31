@@ -35,6 +35,42 @@ I'm currently an Associate Professor at the Faculty of Artificial Intelligence i
 <span class='anchor' id='selected-publications'></span>
 # 📝 Selected Publications 
 #### Journal Papers
+<!-- 
+(Under Review)
+- ``Neur.Netw. 2026`` [Multiplex Graph Prompt Learning and Attentive Fusion for Event Graph](https://jason-xiang5231.github.io/), Neural Networks (Elsevier), Chao Liang, Bang Wang, Chuanhong Zhan, **Wei Xiang**. 
+-->
+<!-- 
+(Under Review)
+- ``TASLP 2026`` [Calibrating In-context Bias in Large Language Model Predictions for Event Causality Identification](https://jason-xiang5231.github.io/), IEEE/ACM Transactions on Audio, Speech and Language Processing, **Wei Xiang**, Chuanhong Zhan, Xu Du, Bang Wang.
+-->
+<!-- 
+(Under Review)
+- ``ToSN 2026`` [MVSTA:Multi-View Spatio-Temporal Correlation Awareness Network for Traffic Data Imputation](https://jason-xiang5231.github.io/), Transactions on Sensor Networks, Suwen Zhu, Yiheng Ruan, **Wei Xiang**, Yuanyuan He, Shenghao Liu, Jing Wang, Xianjun Deng.
+-->
+<!-- 
+(Under Review)
+- ``DCN 2026`` [Anomaly Detection in Industrial Control Networks Based on Deep Reinforcement Learning and Data Reconstruction](https://jason-xiang5231.github.io/), Digital Communications and Networks, Hanjun Gao, Jiaqi Sun, Wei Feng, Xiaoxuan Fan, **Wei Xiang**, Shenghao Liu, Xianjun Deng.
+-->
+<!-- 
+(Under Review)
+- ``TBD 2026`` [Masked Pre-training Enhanced Trend-Structure- Aware Transformer for Traffic Flow Forecasting](https://jason-xiang5231.github.io/), Transactions on Big Data, Yuezhang, Wang, Shengjie Ye, **Wei Xiang**, Shenghao Liu, Yuanyuan He, Xianjun Deng, Junliang Ye.
+-->
+<!-- 
+(Under Review)
+- ``TBD 2026`` [DDMGN: Dual-Domain Multimodal Network for Fake News Video Detection](https://jason-xiang5231.github.io/), Transactions on Big Data, Liangbin Gao, Kai Cui, **Wei Xiang**, Shenghao Liu, Hanjun Gao, Wei Feng, Xianjun Deng.
+-->
+<!-- 
+(Under Review)
+- ``TMC 2026`` [Learning Temporal Features for Privacy-Preserving Time-Series Source-Free Domain Adaptation in Mobile Computing](https://jason-xiang5231.github.io/), Transactions on Mobile Computing, Xiaoxuan Fan, Jiaqi Sun, Suning Chen, Lingzhi Yi, **Wei Xiang**, Chuan Huang, Xianjun Deng.
+-->
+<!-- 
+(Under Review)
+- ``ToIS 2026`` [H2CLSR: Hierarchy-Aware Hyperbolic Contrastive Learning for Social Recommendation](https://jason-xiang5231.github.io/), Transactions on Information Systems, Yunkang Deng, Shenghao Liu, Li Sun, **Wei Xiang**, Meng Luo, Xianjun Deng.
+-->
+<!-- 
+(Under Review)
+- ``TIFS 2026`` [Tensor-based Phase-Aware Early Detection Framework for Ethereum Scam Tokens](https://jason-xiang5231.github.io/), Transactions on Forensics and Security, Shuilong Wang, Laurence T. Yang, Xianjun Deng, **Wei Xiang**, Cannian Zou, Yuanyuan He, Hongyang Yan.
+-->
 - ``TASLP 2025`` [Unified Semantic and Structural Modeling via Focal Attention for Causality Graph Event Prediction](https://jason-xiang5231.github.io/), IEEE/ACM Transactions on Audio, Speech, and Language Processing, C. Zhan, **W. Xiang**, C. Liang and B. Wang.
 - ``Neur.Netw. 2025`` [Modeling Document Causal Structure with a Hypergraph for Event Causality Identification](https://www.sciencedirect.com/science/article/abs/pii/S0893608024010098), Neural Networks (Elsevier), **W. Xiang**, C. Liu and B. Wang.
 - ``TASLP 2025`` [Adaptive Prompt Learning with Distilled Connective Knowledge for Implicit Discourse Relation Recognition](https://ieeexplore.ieee.org/document/10833725), IEEE/ACM Transactions on Audio, Speech, and Language Processing, B. Wang, Z. Wang, **W. Xiang** and Y. Mo.
@@ -47,10 +83,10 @@ I'm currently an Associate Professor at the Faculty of Artificial Intelligence i
 - ``NPL 2023`` [Modeling Character-Word Interaction via a Novel Mesh Transformer for Chinese Event Detection](https://link.springer.com/article/10.1007/s11063-023-11382-2), Neural Processing Letters (Springer), L. Dai, B. Wang, **W. Xiang** and Y. Mo.
 - ``Appl.Intel. 2022`` [A Syntactic Distance Sensitive Neural Network for Event Argument Extraction](https://link.springer.com/article/10.1007/s10489-022-03598-x), Applied Intelligence (Springer), L. Dai, B. Wang, **W. Xiang** and Y. Mo.
 <!-- 
-- ``MDPI Applied Science 2023`` [Cross-Modal Image Registration via Rasterized Parameter Prediction for Object Tracking](https://www.mdpi.com/2076-3417/13/9/5359), Qing Zhang, **Wei Xiang**.
+- ``MDPI 2023`` [Cross-Modal Image Registration via Rasterized Parameter Prediction for Object Tracking](https://www.mdpi.com/2076-3417/13/9/5359), Applied Science, Qing Zhang, **Wei Xiang**.
 -->
 <!-- 
-- ``MDPI Sensors 2023`` [RadarPDR: Radar-Assisted Indoor Pedestrian Dead Reckoning](https://pmc.ncbi.nlm.nih.gov/articles/PMC10007269/), Jianbiao He, **Wei Xiang**, Qing Zhang, Bang Wang.
+- ``MDPI 2023`` [RadarPDR: Radar-Assisted Indoor Pedestrian Dead Reckoning](https://pmc.ncbi.nlm.nih.gov/articles/PMC10007269/), Sensors, Jianbiao He, **Wei Xiang**, Qing Zhang, Bang Wang.
 -->
 - ``ACCESS 2020`` [A Survey of Event Extraction from Text](https://ieeexplore.ieee.org/document/8918013), IEEE ACCESS, **W. Xiang** and B. Wang. 
   
