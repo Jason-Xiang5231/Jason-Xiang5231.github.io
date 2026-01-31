@@ -49,6 +49,7 @@ I'm currently an Associate Professor at the Faculty of Artificial Intelligence i
 - ``ACCESS 2020`` [A Survey of Event Extraction from Text](https://ieeexplore.ieee.org/document/8918013), IEEE ACCESS, **W. Xiang** and B. Wang. 
   
 #### Conference Papers
+- ``TrustCom 2025``
 - ``ACL 2025`` [Evaluating Instructively Generated Statement by Large Language Models for directional Event Causality Identification](https://Jason-Xiang5231.github.io) (Findings), **W. Xiang**, C. Zhan, Q. Zhang and B. Wang.
 - ``ACL 2024`` [Identifying while Learning for Document Event Causality Identification](https://aclanthology.org/2024.acl-long.210/), C. Liu, **W. Xiang** and B. Wang.
 - ``ACL 2024`` [Encoding Hierarchical Schema via Concept Flow for Multifaceted Ideology Detection](https://aclanthology.org/2024.findings-acl.172/) (Findings), S. Liu, B. Wang, **W. Xiang**, H. Xu and M. Xu. 
