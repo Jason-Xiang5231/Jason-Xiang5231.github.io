@@ -71,6 +71,10 @@ I'm currently an Associate Professor at the Faculty of Artificial Intelligence i
 (Under Review)
 - ``TIFS 2026`` [Tensor-based Phase-Aware Early Detection Framework for Ethereum Scam Tokens](https://jason-xiang5231.github.io/), Transactions on Forensics and Security, Shuilong Wang, Laurence T. Yang, Xianjun Deng, **Wei Xiang**, Cannian Zou, Yuanyuan He, Hongyang Yan.
 -->
+<!-- 
+(Under Review)
+- ``TKDE 2026`` [Adaptive Spatial-Temporal Hypergraph Contrastive Learning for Traffic Prediction](https://jason-xiang5231.github.io/), Transactions on Knowledge and Date Engineering, Siyu Sun, Shenghao Liu, **Wei Xiang**, Lingzhi Yi, Xianjun Deng, Hongwei Lu, Philip S. Yu.
+-->
 - ``TASLP 2025`` [Unified Semantic and Structural Modeling via Focal Attention for Causality Graph Event Prediction](https://jason-xiang5231.github.io/), IEEE/ACM Transactions on Audio, Speech, and Language Processing, C. Zhan, **W. Xiang**, C. Liang and B. Wang.
 - ``Neur.Netw. 2025`` [Modeling Document Causal Structure with a Hypergraph for Event Causality Identification](https://www.sciencedirect.com/science/article/abs/pii/S0893608024010098), Neural Networks (Elsevier), **W. Xiang**, C. Liu and B. Wang.
 - ``TASLP 2025`` [Adaptive Prompt Learning with Distilled Connective Knowledge for Implicit Discourse Relation Recognition](https://ieeexplore.ieee.org/document/10833725), IEEE/ACM Transactions on Audio, Speech, and Language Processing, B. Wang, Z. Wang, **W. Xiang** and Y. Mo.
