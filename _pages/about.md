@@ -86,12 +86,15 @@ I'm currently an Associate Professor at the Faculty of Artificial Intelligence i
 - ``ESWA 2023`` [A graph-enhanced attention model for community detection in multiplex networks](https://www.sciencedirect.com/science/article/abs/pii/S0957417423010540), Expert Systems With Applications (Elsevier), B. Wang, X. Cai, M. Xu and **W. Xiang**.
 - ``NPL 2023`` [Modeling Character-Word Interaction via a Novel Mesh Transformer for Chinese Event Detection](https://link.springer.com/article/10.1007/s11063-023-11382-2), Neural Processing Letters (Springer), L. Dai, B. Wang, **W. Xiang** and Y. Mo.
 - ``Appl.Intel. 2022`` [A Syntactic Distance Sensitive Neural Network for Event Argument Extraction](https://link.springer.com/article/10.1007/s10489-022-03598-x), Applied Intelligence (Springer), L. Dai, B. Wang, **W. Xiang** and Y. Mo.
+
 <!-- 
 - ``MDPI 2023`` [Cross-Modal Image Registration via Rasterized Parameter Prediction for Object Tracking](https://www.mdpi.com/2076-3417/13/9/5359), Applied Science, Qing Zhang, **Wei Xiang**.
 -->
+
 <!-- 
 - ``MDPI 2023`` [RadarPDR: Radar-Assisted Indoor Pedestrian Dead Reckoning](https://pmc.ncbi.nlm.nih.gov/articles/PMC10007269/), Sensors, Jianbiao He, **Wei Xiang**, Qing Zhang, Bang Wang.
 -->
+
 - ``ACCESS 2020`` [A Survey of Event Extraction from Text](https://ieeexplore.ieee.org/document/8918013), IEEE ACCESS, **W. Xiang** and B. Wang. 
   
 #### Conference Papers
