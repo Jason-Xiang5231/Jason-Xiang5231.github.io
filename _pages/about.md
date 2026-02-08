@@ -37,7 +37,7 @@ I'm currently an Associate Professor at the Faculty of Artificial Intelligence i
 #### Journal Papers
 <!-- 
 (Under Review)
-- ``Neur.Netw. 2026`` [Multiplex Graph Prompt Learning and Attentive Fusion for Event Graph](https://jason-xiang5231.github.io/), Neural Networks (Elsevier), Chao Liang, Bang Wang, Chuanhong Zhan, **Wei Xiang**. 
+- ``Neur.Netw. 2026`` [Multiplex Graph Prompt Learning and Attentive Fusion for Event Graph Completion](https://jason-xiang5231.github.io/), Neural Networks (Elsevier), Chao Liang, Bang Wang, Chuanhong Zhan, **Wei Xiang**. 
 -->
 <!-- 
 (Under Review)
