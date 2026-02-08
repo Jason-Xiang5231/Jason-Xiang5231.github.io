@@ -95,17 +95,11 @@ I'm currently an Associate Professor at the Faculty of Artificial Intelligence i
 - ``ACCESS 2020`` [A Survey of Event Extraction from Text](https://ieeexplore.ieee.org/document/8918013), IEEE ACCESS, **W. Xiang** and B. Wang. 
   
 #### Conference Papers
-<!-- 
 - ``WWW 2026`` [Unsupervised Subgraph Anomaly Detection based on Pattern Collaboration](https://Jason-Xiang5231.github.io), Jiayang Sun, Shenghao Liu, Xianjun Deng, **Wei Xiang**, Meng Luo, Qiankun Zhang, Dandan Zheng.
--->
-<!-- 
 - ``WWW 2026`` [Automated Model Selection for Multivariate Time Series Forecasting](https://Jason-Xiang5231.github.io), Xiaoxuan Fan, Jiaqi Sun, Xianjun Deng, Qiankun Zhang, **Wei Xiang**, Shenghao Liu, Lingzhi Yi.
--->
-<!-- 
-- ``TrustCom 2025`` [TLSA: Transfer Learning Enhanced Link Stealing Attacks on Graph Neural Networks](https://Jason-Xiang5231.github.io), Zhenkun Jin, Jiaqi Ma, Yuanyuan He, **Wei Xiang**, Qiankun Zhang, Tao Zhang.
--->
 - ``ACL 2025`` [Evaluating Instructively Generated Statement by Large Language Models for directional Event Causality Identification](https://Jason-Xiang5231.github.io) (Findings), **W. Xiang**, C. Zhan, Q. Zhang and B. Wang.
 - ``ICPADS 2025`` [SecFinder: An IoT Device Identification System Based on Flow-level Traffic in Smart Home](https://ieeexplore.ieee.org/document/11323115), Ning Zhang, Suning Chen, Shenghao Liu, Xianjun Deng, Yuanyuan He, **Wei Xiang**, Meng Li. (Outstanding Paper)
+- ``TrustCom 2025`` [TLSA: Transfer Learning Enhanced Link Stealing Attacks on Graph Neural Networks](https://www.computer.org/csdl/proceedings-article/trustcom/2025/653200b182/2dMl7u36qpa), Zhenkun Jin, Jiaqi Ma, Yuanyuan He, **Wei Xiang**, Qiankun Zhang, Tao Zhang.
 - ``ACL 2024`` [Identifying while Learning for Document Event Causality Identification](https://aclanthology.org/2024.acl-long.210/), C. Liu, **W. Xiang** and B. Wang.
 - ``ACL 2024`` [Encoding Hierarchical Schema via Concept Flow for Multifaceted Ideology Detection](https://aclanthology.org/2024.findings-acl.172/) (Findings), S. Liu, B. Wang, **W. Xiang**, H. Xu and M. Xu. 
 - ``EMNLP 2024`` [In-context Contrastive Learning for Event Causality Identification](https://aclanthology.org/2024.emnlp-main.51/), C. Liang, **W. Xiang** and B. Wang.
