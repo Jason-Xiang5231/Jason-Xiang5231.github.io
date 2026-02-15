@@ -147,13 +147,14 @@ I'm currently an Associate Professor at the Faculty of Artificial Intelligence i
 <span class='anchor' id='awards-and-service'></span>
 # 🎖️ Awards and Service
 
-**Awards**
-- **Hubei Provincial Science and Technology Progress Award, Second Prize**, Department of Science and Technology of Hubei Province, 2025.
-- **National Scholarship** for Doctoral Students, Ministry of Education of the People's Republic of China, 2023. 
-- **Huawei Scholarship**, Huawei Technologies Co., Ltd., 2022. 
-
 **Academic Service**
 - **Area Chair & Program Committee:** ACL ARR 2026, 2025, ICPADS, 2025, AIAHPC, 2025, TrustCom 2025, IEEE HPCC, 2024, 2022.
 - **Conference Reviewer:** **ACL** ('25, '24, '23, '22), **AAAI** ('25), **NAACL** ('25, '24, '23), **EMNLP** ('24, '23), **ECAI** ('23)， **NLPCC** （‘25, '24).
 - **Journal Reviewer:** IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Expert Systems with Applications (ESWA), Neural Networks, Neurocomputing, Engineering Applications of Artificial Intelligence (EAAI), Multimedia Systems, Data Science and Engineering, etc.
+
+**Awards**
+- **Hubei Provincial Science and Technology Progress Award, Second Prize**, Department of Science and Technology of Hubei Province, 2025.
+- **National Scholarship** for Doctoral Students, Ministry of Education of the People's Republic of China, 2023. 
+- **Huawei Scholarship**, Huawei Technologies Co., Ltd., 2022.
+
 
