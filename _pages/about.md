@@ -33,7 +33,31 @@ I'm currently an Associate Professor at the Faculty of Artificial Intelligence i
 - *2007.09 - 2011.06*, B.Eng. in Electronic Information Engineering, Huazhong University of Science and Technology, Wuhan, China.
 
 <span class='anchor' id='selected-publications'></span>
-# 📝 Selected Publications 
+# 📝 Selected Publications  
+#### Conference Papers
+- ``WWW 2026`` J. Sun, S. Liu, X. Deng, **W. Xiang**, M. Luo, Q. Zhang, D. Zheng. [Unsupervised Subgraph Anomaly Detection based on Pattern Collaboration](https://Jason-Xiang5231.github.io), Accepted by The ACM Web Conference (WWW). Dubai, United Arab Emirates, 2026, 1-8.
+- ``WWW 2026`` X. Fan, J. Sun, X. Deng, Q. Zhang, **W. Xiang**, S. Liu, L. Yi. [Automated Model Selection for Multivariate Time Series Forecasting](https://Jason-Xiang5231.github.io), Accepted by the ACM web conference (WWW). Dubai, United Arab Emirates, 2026, 1-8.
+  
+- ``ACL 2025`` **W. Xiang**, C. Zhan, Q. Zhang and B. Wang. [Evaluating Instructively Generated Statement by Large Language Models for directional Event Causality Identification](https://aclanthology.org/2025.findings-acl.43/), In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-Findings). Vienna, Austria, 2025, 779–785.
+
+- 
+- ``ICPADS 2025`` [SecFinder: An IoT Device Identification System Based on Flow-level Traffic in Smart Home](https://ieeexplore.ieee.org/document/11323115), Ning Zhang, Suning Chen, Shenghao Liu, Xianjun Deng, Yuanyuan He, **Wei Xiang**, Meng Li. (Outstanding Paper)
+- ``TrustCom 2025`` [TLSA: Transfer Learning Enhanced Link Stealing Attacks on Graph Neural Networks](https://www.computer.org/csdl/proceedings-article/trustcom/2025/653200b182/2dMl7u36qpa), Zhenkun Jin, Jiaqi Ma, Yuanyuan He, **Wei Xiang**, Qiankun Zhang, Tao Zhang.
+- ``ACL 2024`` [Identifying while Learning for Document Event Causality Identification](https://aclanthology.org/2024.acl-long.210/), C. Liu, **W. Xiang** and B. Wang.
+- ``ACL 2024`` [Encoding Hierarchical Schema via Concept Flow for Multifaceted Ideology Detection](https://aclanthology.org/2024.findings-acl.172/) (Findings), S. Liu, B. Wang, **W. Xiang**, H. Xu and M. Xu. 
+- ``EMNLP 2024`` [In-context Contrastive Learning for Event Causality Identification](https://aclanthology.org/2024.emnlp-main.51/), C. Liang, **W. Xiang** and B. Wang.
+- ``EMNLP 2024`` [What Would Happen Next? Predicting Consequences from An Event Causality Graph](https://aclanthology.org/2024.findings-emnlp.45/) (Findings), C. Zhan, **W. Xiang**, C. Liang and B. Wang.
+- ``NLPCC 2024`` [Retrieval-Enhanced Template Generation for Template Extraction](https://link.springer.com/chapter/10.1007/978-981-97-9431-7_29), R. Wang, **W. Xiang**, Z. Wang and B. Wang.
+- ``NLPCC 2024`` [Bias-Rectified Multi-way Learning with Data Augmentation for Implicit Discourse Relation Recognition](https://link.springer.com/chapter/10.1007/978-981-97-9431-7_28), Z. Zheng, C. Liang, **W. Xiang** and B. Wang.
+- ``ACL 2023`` [TEPrompt: Task Enlightenment Prompt Learning for Implicit Discourse Relation Recognition](https://aclanthology.org/2023.findings-acl.785/) (Findings), **W. Xiang**, C. Liang and B. Wang.
+- ``EMNLP 2023`` [Ideology Takes Multiple Looks: A High-Quality Dataset for Multifaceted Ideology Detection](https://aclanthology.org/2023.emnlp-main.256/), S. Liu, Z. Luo, M. Xu, L. Wei, Z. Wei, H. Yu, **W. Xiang** and B. Wang.
+- ``COLING 2022`` [ConnPrompt: Connective-Cloze Prompt Learning for Implicit Discourse Relation Recognition](https://aclanthology.org/2022.coling-1.75/), **W. Xiang**, Z. Wang, L. Dai and B. Wang.
+- ``ACL 2022`` [Encoding and Fusing Semantic Connection and Linguistic Evidence for Implicit Discourse Relation Recognition](https://aclanthology.org/2022.findings-acl.256/) (Findings), **W. Xiang**, B. Wang, L. Dai and Y. Mo.
+- ``EMNLP 2022`` [Bi-Directional Iterative Prompt-Tuning for Event Argument Extraction](https://aclanthology.org/2022.emnlp-main.419/), L. Dai, B. Wang, **W. Xiang** and Y. Mo. 
+- ``PAKDD 2022`` [A Hybrid Semantic-Topic Co-encoding Network for Social Emotion Classification](https://link.springer.com/chapter/10.1007/978-3-031-05933-9_46), L. Dai, B. Wang, **W. Xiang**, M. Xu and H. Xu. 
+- ``NLPCC 2021`` [Event Argument Extraction via a Distance-Sensitive Graph Convolutional Network](https://link.springer.com/chapter/10.1007/978-3-030-88483-3_5), L. Dai, B. Wang, **W. Xiang** and Y. Mo. 
+- ``SIGIR 2019`` [Encoding Syntactic Dependency and Topical Information for Social Emotion Classification](https://dl.acm.org/doi/10.1145/3331184.3331287), C. Wang, B. Wang, **W. Xiang** and M. Xu.
+
 #### Journal Papers
 <!-- 
 (Under Review)
@@ -92,28 +116,7 @@ I'm currently an Associate Professor at the Faculty of Artificial Intelligence i
 <!-- 
 - ``MDPI 2023`` [RadarPDR: Radar-Assisted Indoor Pedestrian Dead Reckoning](https://pmc.ncbi.nlm.nih.gov/articles/PMC10007269/), Sensors, Jianbiao He, **Wei Xiang**, Qing Zhang, Bang Wang.
 -->
-- ``ACCESS 2020`` **W. Xiang** and B. Wang. [A Survey of Event Extraction from Text](https://ieeexplore.ieee.org/document/8918013), IEEE ACCESS, 2019, 7:173111-173137. 
-  
-#### Conference Papers
-- ``WWW 2026`` [Unsupervised Subgraph Anomaly Detection based on Pattern Collaboration](https://Jason-Xiang5231.github.io), Jiayang Sun, Shenghao Liu, Xianjun Deng, **Wei Xiang**, Meng Luo, Qiankun Zhang, Dandan Zheng.
-- ``WWW 2026`` [Automated Model Selection for Multivariate Time Series Forecasting](https://Jason-Xiang5231.github.io), Xiaoxuan Fan, Jiaqi Sun, Xianjun Deng, Qiankun Zhang, **Wei Xiang**, Shenghao Liu, Lingzhi Yi.
-- ``ACL 2025`` [Evaluating Instructively Generated Statement by Large Language Models for directional Event Causality Identification](https://Jason-Xiang5231.github.io) (Findings), **W. Xiang**, C. Zhan, Q. Zhang and B. Wang.
-- ``ICPADS 2025`` [SecFinder: An IoT Device Identification System Based on Flow-level Traffic in Smart Home](https://ieeexplore.ieee.org/document/11323115), Ning Zhang, Suning Chen, Shenghao Liu, Xianjun Deng, Yuanyuan He, **Wei Xiang**, Meng Li. (Outstanding Paper)
-- ``TrustCom 2025`` [TLSA: Transfer Learning Enhanced Link Stealing Attacks on Graph Neural Networks](https://www.computer.org/csdl/proceedings-article/trustcom/2025/653200b182/2dMl7u36qpa), Zhenkun Jin, Jiaqi Ma, Yuanyuan He, **Wei Xiang**, Qiankun Zhang, Tao Zhang.
-- ``ACL 2024`` [Identifying while Learning for Document Event Causality Identification](https://aclanthology.org/2024.acl-long.210/), C. Liu, **W. Xiang** and B. Wang.
-- ``ACL 2024`` [Encoding Hierarchical Schema via Concept Flow for Multifaceted Ideology Detection](https://aclanthology.org/2024.findings-acl.172/) (Findings), S. Liu, B. Wang, **W. Xiang**, H. Xu and M. Xu. 
-- ``EMNLP 2024`` [In-context Contrastive Learning for Event Causality Identification](https://aclanthology.org/2024.emnlp-main.51/), C. Liang, **W. Xiang** and B. Wang.
-- ``EMNLP 2024`` [What Would Happen Next? Predicting Consequences from An Event Causality Graph](https://aclanthology.org/2024.findings-emnlp.45/) (Findings), C. Zhan, **W. Xiang**, C. Liang and B. Wang.
-- ``NLPCC 2024`` [Retrieval-Enhanced Template Generation for Template Extraction](https://link.springer.com/chapter/10.1007/978-981-97-9431-7_29), R. Wang, **W. Xiang**, Z. Wang and B. Wang.
-- ``NLPCC 2024`` [Bias-Rectified Multi-way Learning with Data Augmentation for Implicit Discourse Relation Recognition](https://link.springer.com/chapter/10.1007/978-981-97-9431-7_28), Z. Zheng, C. Liang, **W. Xiang** and B. Wang.
-- ``ACL 2023`` [TEPrompt: Task Enlightenment Prompt Learning for Implicit Discourse Relation Recognition](https://aclanthology.org/2023.findings-acl.785/) (Findings), **W. Xiang**, C. Liang and B. Wang.
-- ``EMNLP 2023`` [Ideology Takes Multiple Looks: A High-Quality Dataset for Multifaceted Ideology Detection](https://aclanthology.org/2023.emnlp-main.256/), S. Liu, Z. Luo, M. Xu, L. Wei, Z. Wei, H. Yu, **W. Xiang** and B. Wang.
-- ``COLING 2022`` [ConnPrompt: Connective-Cloze Prompt Learning for Implicit Discourse Relation Recognition](https://aclanthology.org/2022.coling-1.75/), **W. Xiang**, Z. Wang, L. Dai and B. Wang.
-- ``ACL 2022`` [Encoding and Fusing Semantic Connection and Linguistic Evidence for Implicit Discourse Relation Recognition](https://aclanthology.org/2022.findings-acl.256/) (Findings), **W. Xiang**, B. Wang, L. Dai and Y. Mo.
-- ``EMNLP 2022`` [Bi-Directional Iterative Prompt-Tuning for Event Argument Extraction](https://aclanthology.org/2022.emnlp-main.419/), L. Dai, B. Wang, **W. Xiang** and Y. Mo. 
-- ``PAKDD 2022`` [A Hybrid Semantic-Topic Co-encoding Network for Social Emotion Classification](https://link.springer.com/chapter/10.1007/978-3-031-05933-9_46), L. Dai, B. Wang, **W. Xiang**, M. Xu and H. Xu. 
-- ``NLPCC 2021`` [Event Argument Extraction via a Distance-Sensitive Graph Convolutional Network](https://link.springer.com/chapter/10.1007/978-3-030-88483-3_5), L. Dai, B. Wang, **W. Xiang** and Y. Mo. 
-- ``SIGIR 2019`` [Encoding Syntactic Dependency and Topical Information for Social Emotion Classification](https://dl.acm.org/doi/10.1145/3331184.3331287), C. Wang, B. Wang, **W. Xiang** and M. Xu.
+- ``ACCESS 2020`` **W. Xiang** and B. Wang. [A Survey of Event Extraction from Text](https://ieeexplore.ieee.org/document/8918013), IEEE ACCESS, 2019, 7:173111-173137.
 
 <span class='anchor' id='awards-and-service'></span>
 # 🎖️ Awards and Service
