@@ -113,6 +113,27 @@ My research interests cover the broad area of large-scale language model, natura
 </style>
 
 <div class="paper-list">
+- ``TASLP 2025`` C. Zhan, **W. Xiang**, C. Liang and B. Wang. [Unified Semantic and Structural Modeling via Focal Attention for Causality Graph Event Prediction](https://ieeexplore.ieee.org/document/11206488), IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2025, vol.33, pp.4538-4551.
+
+- ``Neu.Net. 2025`` **W. Xiang**, C. Liu and B. Wang. [Modeling Document Causal Structure with a Hypergraph for Event Causality Identification](https://www.sciencedirect.com/science/article/abs/pii/S0893608024010098), Neural Networks (Elsevier), 2025, vol.184, pp.107080.
+
+- ``TASLP 2025`` B. Wang, Z. Wang, **W. Xiang** and Y. Mo. [Adaptive Prompt Learning with Distilled Connective Knowledge for Implicit Discourse Relation Recognition](https://ieeexplore.ieee.org/document/10833725), IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2025, vol.33, pp.586-597.
+
+- ``NCAA 2025`` **W. Xiang**, C. Zhan, Q. Zhang and B. Wang. [DAPrompt: Deterministic Assumption Prompt Learning for Event Causality Identification](https://link.springer.com/article/10.1007/s00521-025-11486-x), Neural Computing and Applications (Springer), 2025, vol.37, pp.21743-21759.
+
+- ``CSL 2025`` **W. Xiang**, C. Liu and B. Wang. [Modeling correlated causal-effect structure with a hypergraph for document-level event causality identification](https://www.sciencedirect.com/science/article/abs/pii/S0885230824001359), Computer Speech and Language (Elsevier), 2025, vol.90, pp.101752.
+
+- ``NCAA 2024`` **W. Xiang**, S. Liu and B. Wang. [Parsing and Encoding Interactive Phrase Structure for Implicit Discourse Relation Recognition](https://link.springer.com/article/10.1007/s00521-024-09709-8), Neural Computing and Applications (Springer), 2024, vol.36, pp.13783-13797.
+
+- ``CSUR 2023`` **W. Xiang** and B. Wang. [A Survey of Implicit Discourse Relation Recognition](https://dl.acm.org/doi/10.1145/3574134), ACM Computing Surveys, 2023, vol.55(12), pp.1-34.
+
+- ``ESWA 2023`` B. Wang, X. Cai, M. Xu and **W. Xiang<sup>†</sup>**. [A graph-enhanced attention model for community detection in multiplex networks](https://www.sciencedirect.com/science/article/abs/pii/S0957417423010540), Expert Systems With Applications (Elsevier), 2023, vol.230(15), pp.120552.
+
+- ``NPL 2023`` L. Dai, B. Wang, **W. Xiang** and Y. Mo. [Modeling Character-Word Interaction via a Novel Mesh Transformer for Chinese Event Detection](https://link.springer.com/article/10.1007/s11063-023-11382-2), Neural Processing Letters (Springer), 2023, vol.55, pp.11429-114488.
+
+- ``Appl.Int. 2022`` L. Dai, B. Wang, **W. Xiang** and Y. Mo. [A Syntactic Distance Sensitive Neural Network for Event Argument Extraction](https://link.springer.com/article/10.1007/s10489-022-03598-x), Applied Intelligence (Springer), 2022, vol.53, pp.6554-6568.
+</div>
+
 <!-- 
 (Under Review)
 - ``Neur.Netw. 2026`` [Multiplex Graph Prompt Learning and Attentive Fusion for Event Graph Completion](https://jason-xiang5231.github.io/), Neural Networks (Elsevier), Chao Liang, Bang Wang, Chuanhong Zhan, **Wei Xiang**. 
@@ -182,7 +203,6 @@ My research interests cover the broad area of large-scale language model, natura
 -->
 
 - ``ACCESS 2020`` **W. Xiang** and B. Wang. [A Survey of Event Extraction from Text](https://ieeexplore.ieee.org/document/8918013), IEEE ACCESS, 2019, vol.7, pp.173111-173137.
-</div>
 
 <span class='anchor' id='awards-and-service'></span>
 # 🎖️ Awards and Service
