@@ -106,12 +106,15 @@ I'm currently an Associate Professor at the Faculty of Artificial Intelligence i
 - ``ESWA 2023`` B. Wang, X. Cai, M. Xu and **W. Xiang†**. [A graph-enhanced attention model for community detection in multiplex networks](https://www.sciencedirect.com/science/article/abs/pii/S0957417423010540), Expert Systems With Applications (Elsevier), 2023, vol.230(15), pp.120552.
 - ``NPL 2023`` L. Dai, B. Wang, **W. Xiang** and Y. Mo. [Modeling Character-Word Interaction via a Novel Mesh Transformer for Chinese Event Detection](https://link.springer.com/article/10.1007/s11063-023-11382-2), Neural Processing Letters (Springer), 2023, vol.55, pp.11429-114488.
 - ``Appl.Int. 2022`` L. Dai, B. Wang, **W. Xiang** and Y. Mo. [A Syntactic Distance Sensitive Neural Network for Event Argument Extraction](https://link.springer.com/article/10.1007/s10489-022-03598-x), Applied Intelligence (Springer), 2022, vol.53, pp.6554-6568.
+
 <!-- 
 - ``MDPI 2023`` [Cross-Modal Image Registration via Rasterized Parameter Prediction for Object Tracking](https://www.mdpi.com/2076-3417/13/9/5359), Applied Science, Qing Zhang, **Wei Xiang**.
 -->
+
 <!-- 
 - ``MDPI 2023`` [RadarPDR: Radar-Assisted Indoor Pedestrian Dead Reckoning](https://pmc.ncbi.nlm.nih.gov/articles/PMC10007269/), Sensors, Jianbiao He, **Wei Xiang**, Qing Zhang, Bang Wang.
 -->
+
 - ``ACCESS 2020`` **W. Xiang** and B. Wang. [A Survey of Event Extraction from Text](https://ieeexplore.ieee.org/document/8918013), IEEE ACCESS, 2019, vol.7, pp.173111-173137.
 
 <span class='anchor' id='awards-and-service'></span>
@@ -124,6 +127,6 @@ I'm currently an Associate Professor at the Faculty of Artificial Intelligence i
 
 **Academic Service**
 - **Area Chair & Program Committee:** ACL ARR 2026, 2025, ICPADS, 2025, AIAHPC, 2025, TrustCom 2025, IEEE HPCC, 2024, 2022.
-- **Conference Reviewer:** ACL ('25, '24, '23, '22), **AAAI** ('25), **NAACL** ('25, '24, '23), **EMNLP** ('24, '23), **ECAI** ('23)， **NLPCC** （‘25, '24).
+- **Conference Reviewer:** **ACL** ('25, '24, '23, '22), **AAAI** ('25), **NAACL** ('25, '24, '23), **EMNLP** ('24, '23), **ECAI** ('23)， **NLPCC** （‘25, '24).
 - **Journal Reviewer:** IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Expert Systems with Applications (ESWA), Neural Networks, Neurocomputing, Engineering Applications of Artificial Intelligence (EAAI), Multimedia Systems, Data Science and Engineering, etc.
 
