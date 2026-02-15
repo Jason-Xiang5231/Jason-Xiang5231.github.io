@@ -1,21 +1,3 @@
-<!-- 第一步：在文档开头添加这段样式（只加一次） -->
-<style>
-/* 针对Markdown原生段落/列表的两端对齐，不破坏格式 */
-.markdown-body p,
-.markdown-body li {
-  text-align: justify !important;
-  text-justify: inter-word !important;
-  line-height: 1.8 !important;
-}
-/* 如果只想给特定内容对齐，用自定义class（推荐） */
-.justify-content p,
-.justify-content li {
-  text-align: justify;
-  text-justify: inter-word;
-  line-height: 1.8;
-}
-</style>
-
 ---
 permalink: /
 title: ""
@@ -33,6 +15,23 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<!-- 第一步：在文档开头添加这段样式（只加一次） -->
+<style>
+/* 针对Markdown原生段落/列表的两端对齐，不破坏格式 */
+.markdown-body p,
+.markdown-body li {
+  text-align: justify !important;
+  text-justify: inter-word !important;
+  line-height: 1.8 !important;
+}
+/* 如果只想给特定内容对齐，用自定义class（推荐） */
+.justify-content p,
+.justify-content li {
+  text-align: justify;
+  text-justify: inter-word;
+  line-height: 1.8;
+}
+</style>
 
 <span class='anchor' id='about-me'></span>
 # 🏛️ About me
