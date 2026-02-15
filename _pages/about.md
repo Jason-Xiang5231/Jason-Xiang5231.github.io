@@ -163,9 +163,9 @@ My research interests cover the broad area of large-scale language model, natura
 
 <div style="text-align: justify; line-height: 1.8; width: 100%;">
   <ul style="list-style: '- '; padding-left: 20px; margin: 0;">
-    <li style="margin-bottom: 12px;">``NPL 2023`` L. Dai, B. Wang, **W. Xiang** and Y. Mo. [Modeling Character-Word Interaction via a Novel Mesh Transformer for Chinese Event Detection](https://link.springer.com/article/10.1007/s11063-023-11382-2), Neural Processing Letters (Springer), 2023, vol.55, pp.11429-114488.</li>
-    <li style="margin-bottom: 12px;">``TASLP 2025`` C. Zhan, **W. Xiang**, C. Liang and B. Wang. [Unified Semantic and Structural Modeling via Focal Attention for Causality Graph Event Prediction](https://ieeexplore.ieee.org/document/11206488), IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2025, vol.33, pp.4538-4551.</li>
-    <li style="margin-bottom: 12px;">``Neu.Net. 2025`` **W. Xiang**, C. Liu and B. Wang. [Modeling Document Causal Structure with a Hypergraph for Event Causality Identification](https://www.sciencedirect.com/science/article/abs/pii/S0893608024010098), Neural Networks (Elsevier), 2025, vol.184, pp.107080.</li>
+    <li style="margin-bottom: 12px;">``NPL 2023`` L. Dai, B. Wang, **W. Xiang** and Y. Mo. [Modeling Character-Word Interaction via a Novel Mesh Transformer for Chinese Event Detection](https://link.springer.com/article/10.1007/s11063-023-11382-2), Neural Processing Letters (Springer), 2023, vol.55, pp.11429-114488.</li>  
+    <li style="margin-bottom: 12px;">``TASLP 2025`` C. Zhan, **W. Xiang**, C. Liang and B. Wang. [Unified Semantic and Structural Modeling via Focal Attention for Causality Graph Event Prediction](https://ieeexplore.ieee.org/document/11206488), IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2025, vol.33, pp.4538-4551.</li>  
+    <li style="margin-bottom: 12px;">``Neu.Net. 2025`` **W. Xiang**, C. Liu and B. Wang. [Modeling Document Causal Structure with a Hypergraph for Event Causality Identification](https://www.sciencedirect.com/science/article/abs/pii/S0893608024010098), Neural Networks (Elsevier), 2025, vol.184, pp.107080.</li>  
     <!-- 其余论文条目复制此格式 -->
   </ul>
 </div>
