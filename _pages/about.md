@@ -173,16 +173,13 @@ My research interests cover the broad area of large-scale language model, natura
 <span class='anchor' id='awards-and-service'></span>
 # 🎖️ Awards and Service
 
-<!-- 
-**Academic Service**
--->
-**Area Chair & Program Committee:**
+**Area Chair & Program Committee:**  
 **ACL ARR** (2026, 2025), **IEEE ICPADS** (2025), **IEEE AIAHPC** (2025), **IEEE TrustCom** (2025), **IEEE HPCC** (2024, 2022).
 
-**Conference Reviewer:** 
+**Conference Reviewer:**   
 **ACL** ('25, '24, '23, '22), **AAAI** ('25), **NAACL** ('25, '24, '23), **EMNLP** ('24, '23), **ECAI** ('23)， **NLPCC** （‘25, '24).
 
-**Journal Reviewer:** 
+**Journal Reviewer:**   
 IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Expert Systems with Applications (ESWA), Neural Networks, Neurocomputing, Engineering Applications of Artificial Intelligence (EAAI), Multimedia Systems, Data Science and Engineering, etc.
 
 **Awards:**
