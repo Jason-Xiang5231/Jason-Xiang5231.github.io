@@ -38,32 +38,16 @@ My research interests cover the broad area of large-scale language model, natura
 <p style="text-align: justify; line-height: 1.6; margin: 0;">
 <span style="color: red;">Prospective students:</span> I am looking for master's students interested in scientific research to work together, as well as self-motivated undergraduate students to study in the research group. If you are interested in working with me, please drop me an email with your resume.
 </p>
-<!-- 
+
 # 💼 Work Experiences
 - *2024.08 - Now*, Associate Professor, Faculty of Artificial Intelligence in Education, Central China Normal University, Wuhan, China.
 - *2024.02 - 2024.07*, Postdoc Researcher, School of Software Engineering, Huazhong University of Science and Technology, Wuhan, China.
 - *2015.07 - 2020.08*, Student Counselor, School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China.
+
 # 🎓 Educations
 - *2020.09 - 2023.12*, Ph.D. in Information and Communication Engineering, Huazhong University of Science and Technology, Wuhan, China.
 - *2013.09 - 2015.06*, M.Mgt. in Administrative Management, Huazhong University of Science and Technology, Wuhan, China.
 - *2007.09 - 2011.06*, B.Eng. in Electronic Information Engineering, Huazhong University of Science and Technology, Wuhan, China.
--->
-
-<div style="text-align: justify; line-height: 1.8;">
-  <h2 id="work-experiences">💼 Work Experiences</h2>
-  <ul style="list-style: none; padding-left: 0; margin: 0;">
-    <li style="margin-bottom: 8px;">- *2024.08 - Now*, Associate Professor, Faculty of Artificial Intelligence in Education, Central China Normal University, Wuhan, China.</li>
-    <li style="margin-bottom: 8px;">- *2024.02 - 2024.07*, Postdoc Researcher, School of Software Engineering, Huazhong University of Science and Technology, Wuhan, China.</li>
-    <li style="margin-bottom: 8px;">- *2015.07 - 2020.08*, Student Counselor, School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China.</li>
-  </ul>
-
-  <h2 id="educations" style="margin-top: 20px;">🎓 Educations</h2>
-  <ul style="list-style: none; padding-left: 0; margin: 0;">
-    <li style="margin-bottom: 8px;">- *2020.09 - 2023.12*, Ph.D. in Information and Communication Engineering, Huazhong University of Science and Technology, Wuhan, China.</li>
-    <li style="margin-bottom: 8px;">- *2013.09 - 2015.06*, M.Mgt. in Administrative Management, Huazhong University of Science and Technology, Wuhan, China.</li>
-    <li style="margin-bottom: 8px;">- *2007.09 - 2011.06*, B.Eng. in Electronic Information Engineering, Huazhong University of Science and Technology, Wuhan, China.</li>
-  </ul>
-</div>
 
 <span class='anchor' id='selected-publications'></span>
 # 📝 Selected Publications  
