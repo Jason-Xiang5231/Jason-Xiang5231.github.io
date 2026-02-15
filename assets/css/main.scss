@@ -42,15 +42,13 @@
 
 .paper-box {
     display: flex;
-    justify-content: space-between;
+    justify-content: left;
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
     padding: 2em 0 2em 0;
-    gap: 2em;
     
-
     .paper-box-image{
         justify-content: center;
         display: flex;
@@ -72,14 +70,14 @@
         .paper-box-image{
             justify-content: left;
             min-width: 200px;
-            flex: 0 0 40%;
+            max-width: 40%;
             order: 1;
         }
         
         .paper-box-text{
             justify-content: left;
             padding-left: 2em;
-            flex: 0 0 60%;
+            max-width: 60%;
             order: 2;
         }
 
