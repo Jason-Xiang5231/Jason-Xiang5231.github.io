@@ -182,7 +182,7 @@ My research interests cover the broad area of large-scale language model, natura
 - **ACL** ('25, '24, '23, '22), **AAAI** ('25), **NAACL** ('25, '24, '23), **EMNLP** ('24, '23), **ECAI** ('23)， **NLPCC** （‘25, '24).
 
 **Journal Reviewer:** 
--IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Expert Systems with Applications (ESWA), Neural Networks, Neurocomputing, Engineering Applications of Artificial Intelligence (EAAI), Multimedia Systems, Data Science and Engineering, etc.
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Expert Systems with Applications (ESWA), Neural Networks, Neurocomputing, Engineering Applications of Artificial Intelligence (EAAI), Multimedia Systems, Data Science and Engineering, etc.
 
 **Awards**
 - **Hubei Provincial Science and Technology Progress Award, Second Prize**, Department of Science and Technology of Hubei Province, 2025.
