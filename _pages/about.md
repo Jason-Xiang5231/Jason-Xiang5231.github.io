@@ -38,25 +38,36 @@ My research interests cover the broad area of large-scale language model, natura
 <p style="text-align: justify; line-height: 1.6; margin: 0;">
 <span style="color: red;">Prospective students:</span> I am looking for master's students interested in scientific research to work together, as well as self-motivated undergraduate students to study in the research group. If you are interested in working with me, please drop me an email with your resume.
 </p>
-
+<!-- 
 # 💼 Work Experiences
-<p style="text-align: justify; line-height: 1.6; margin: 0;">
 - *2024.08 - Now*, Associate Professor, Faculty of Artificial Intelligence in Education, Central China Normal University, Wuhan, China.
 - *2024.02 - 2024.07*, Postdoc Researcher, School of Software Engineering, Huazhong University of Science and Technology, Wuhan, China.
 - *2015.07 - 2020.08*, Student Counselor, School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China.
-</p>
-
 # 🎓 Educations
-<p style="text-align: justify; line-height: 1.6; margin: 0;">
 - *2020.09 - 2023.12*, Ph.D. in Information and Communication Engineering, Huazhong University of Science and Technology, Wuhan, China.
 - *2013.09 - 2015.06*, M.Mgt. in Administrative Management, Huazhong University of Science and Technology, Wuhan, China.
 - *2007.09 - 2011.06*, B.Eng. in Electronic Information Engineering, Huazhong University of Science and Technology, Wuhan, China.
-</p>
+-->
+
+<div style="text-align: justify; line-height: 1.8;">
+  <h2 id="work-experiences">💼 Work Experiences</h2>
+  <ul style="list-style: none; padding-left: 0; margin: 0;">
+    <li style="margin-bottom: 8px;">- *2024.08 - Now*, Associate Professor, Faculty of Artificial Intelligence in Education, Central China Normal University, Wuhan, China.</li>
+    <li style="margin-bottom: 8px;">- *2024.02 - 2024.07*, Postdoc Researcher, School of Software Engineering, Huazhong University of Science and Technology, Wuhan, China.</li>
+    <li style="margin-bottom: 8px;">- *2015.07 - 2020.08*, Student Counselor, School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China.</li>
+  </ul>
+
+  <h2 id="educations" style="margin-top: 20px;">🎓 Educations</h2>
+  <ul style="list-style: none; padding-left: 0; margin: 0;">
+    <li style="margin-bottom: 8px;">- *2020.09 - 2023.12*, Ph.D. in Information and Communication Engineering, Huazhong University of Science and Technology, Wuhan, China.</li>
+    <li style="margin-bottom: 8px;">- *2013.09 - 2015.06*, M.Mgt. in Administrative Management, Huazhong University of Science and Technology, Wuhan, China.</li>
+    <li style="margin-bottom: 8px;">- *2007.09 - 2011.06*, B.Eng. in Electronic Information Engineering, Huazhong University of Science and Technology, Wuhan, China.</li>
+  </ul>
+</div>
 
 <span class='anchor' id='selected-publications'></span>
 # 📝 Selected Publications  
 #### Conference Papers
-<p style="text-align: justify; line-height: 1.6; margin: 0;">
 - ``WWW 2026`` J. Sun, S. Liu, X. Deng, **W. Xiang**, M. Luo, Q. Zhang, D. Zheng. [Unsupervised Subgraph Anomaly Detection based on Pattern Collaboration](https://Jason-Xiang5231.github.io), Accepted by The ACM Web Conference (WWW). Dubai, United Arab Emirates, 2026, pp.1-8.
 
 - ``WWW 2026`` X. Fan, J. Sun, X. Deng, Q. Zhang, **W. Xiang**, S. Liu, L. Yi. [Automated Model Selection for Multivariate Time Series Forecasting](https://Jason-Xiang5231.github.io), Accepted by the ACM web conference (WWW). Dubai, United Arab Emirates, 2026, pp.1-8.
@@ -94,7 +105,6 @@ My research interests cover the broad area of large-scale language model, natura
 - ``NLPCC 2021`` L. Dai, B. Wang, **W. Xiang** and Y. Mo. [Event Argument Extraction via a Distance-Sensitive Graph Convolutional Network](https://link.springer.com/chapter/10.1007/978-3-030-88483-3_5), In The 10th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC). Qingdao, China, 2021, pp.59–72.
 
 - ``SIGIR 2019`` C. Wang, B. Wang, **W. Xiang** and M. Xu. [Encoding Syntactic Dependency and Topical Information for Social Emotion Classification](https://dl.acm.org/doi/10.1145/3331184.3331287), In The 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR). Paris, France, 2019, pp.881-884.
-</p>
 
 #### Journal Papers
 <!-- 
@@ -137,7 +147,6 @@ My research interests cover the broad area of large-scale language model, natura
 (Under Review)
 - ``TKDE 2026`` [Adaptive Spatial-Temporal Hypergraph Contrastive Learning for Traffic Prediction](https://jason-xiang5231.github.io/), Transactions on Knowledge and Date Engineering, Siyu Sun, Shenghao Liu, **Wei Xiang**, Lingzhi Yi, Xianjun Deng, Hongwei Lu, Philip S. Yu.
 -->
-<p style="text-align: justify; line-height: 1.6; margin: 0;">
 - ``TASLP 2025`` C. Zhan, **W. Xiang**, C. Liang and B. Wang. [Unified Semantic and Structural Modeling via Focal Attention for Causality Graph Event Prediction](https://ieeexplore.ieee.org/document/11206488), IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2025, vol.33, pp.4538-4551.
 
 - ``Neu.Net. 2025`` **W. Xiang**, C. Liu and B. Wang. [Modeling Document Causal Structure with a Hypergraph for Event Causality Identification](https://www.sciencedirect.com/science/article/abs/pii/S0893608024010098), Neural Networks (Elsevier), 2025, vol.184, pp.107080.
@@ -167,17 +176,14 @@ My research interests cover the broad area of large-scale language model, natura
 -->
 
 - ``ACCESS 2020`` **W. Xiang** and B. Wang. [A Survey of Event Extraction from Text](https://ieeexplore.ieee.org/document/8918013), IEEE ACCESS, 2019, vol.7, pp.173111-173137.
-</p>
 
 <span class='anchor' id='awards-and-service'></span>
 # 🎖️ Awards and Service
 
 **Academic Service**
-<p style="text-align: justify; line-height: 1.6; margin: 0;">
 - **Area Chair & Program Committee:** ACL ARR 2026, 2025, ICPADS, 2025, AIAHPC, 2025, TrustCom 2025, IEEE HPCC, 2024, 2022.
 - **Conference Reviewer:** **ACL** ('25, '24, '23, '22), **AAAI** ('25), **NAACL** ('25, '24, '23), **EMNLP** ('24, '23), **ECAI** ('23)， **NLPCC** （‘25, '24).
 - **Journal Reviewer:** IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Expert Systems with Applications (ESWA), Neural Networks, Neurocomputing, Engineering Applications of Artificial Intelligence (EAAI), Multimedia Systems, Data Science and Engineering, etc.
-</p>
 
 **Awards**
 - **Hubei Provincial Science and Technology Progress Award, Second Prize**, Department of Science and Technology of Hubei Province, 2025.
