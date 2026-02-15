@@ -131,11 +131,17 @@ My research interests cover the broad area of large-scale language model, natura
 (Under Review)
 - ``TKDE 2026`` [Adaptive Spatial-Temporal Hypergraph Contrastive Learning for Traffic Prediction](https://jason-xiang5231.github.io/), Transactions on Knowledge and Date Engineering, Siyu Sun, Shenghao Liu, **Wei Xiang**, Lingzhi Yi, Xianjun Deng, Hongwei Lu, Philip S. Yu.
 -->
+<p style="text-align: justify; line-height: 1.6; margin: 0;">
 - ``TASLP 2025`` C. Zhan, **W. Xiang**, C. Liang and B. Wang. [Unified Semantic and Structural Modeling via Focal Attention for Causality Graph Event Prediction](https://ieeexplore.ieee.org/document/11206488), IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2025, vol.33, pp.4538-4551.
+</p>
 
+<p style="text-align: justify; line-height: 1.6; margin: 0;">
 - ``Neu.Net. 2025`` **W. Xiang**, C. Liu and B. Wang. [Modeling Document Causal Structure with a Hypergraph for Event Causality Identification](https://www.sciencedirect.com/science/article/abs/pii/S0893608024010098), Neural Networks (Elsevier), 2025, vol.184, pp.107080.
+</p>
 
+<p style="text-align: justify; line-height: 1.6; margin: 0;">
 - ``TASLP 2025`` B. Wang, Z. Wang, **W. Xiang** and Y. Mo. [Adaptive Prompt Learning with Distilled Connective Knowledge for Implicit Discourse Relation Recognition](https://ieeexplore.ieee.org/document/10833725), IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2025, vol.33, pp.586-597.
+</p>
 
 - ``NCAA 2025`` **W. Xiang**, C. Zhan, Q. Zhang and B. Wang. [DAPrompt: Deterministic Assumption Prompt Learning for Event Causality Identification](https://link.springer.com/article/10.1007/s00521-025-11486-x), Neural Computing and Applications (Springer), 2025, vol.37, pp.21743-21759.
 
@@ -161,26 +167,17 @@ My research interests cover the broad area of large-scale language model, natura
 
 - ``ACCESS 2020`` **W. Xiang** and B. Wang. [A Survey of Event Extraction from Text](https://ieeexplore.ieee.org/document/8918013), IEEE ACCESS, 2019, vol.7, pp.173111-173137.
 
-<div style="text-align: justify; line-height: 1.8; width: 100%;">
-  <ul style="list-style: '- '; padding-left: 20px; margin: 0;">
-    <li style="margin-bottom: 12px;">``NPL 2023`` L. Dai, B. Wang, **W. Xiang** and Y. Mo. [Modeling Character-Word Interaction via a Novel Mesh Transformer for Chinese Event Detection](https://link.springer.com/article/10.1007/s11063-023-11382-2), Neural Processing Letters (Springer), 2023, vol.55, pp.11429-114488.</li>  
-    <li style="margin-bottom: 12px;">``TASLP 2025`` C. Zhan, **W. Xiang**, C. Liang and B. Wang. [Unified Semantic and Structural Modeling via Focal Attention for Causality Graph Event Prediction](https://ieeexplore.ieee.org/document/11206488), IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2025, vol.33, pp.4538-4551.</li>  
-    <li style="margin-bottom: 12px;">``Neu.Net. 2025`` **W. Xiang**, C. Liu and B. Wang. [Modeling Document Causal Structure with a Hypergraph for Event Causality Identification](https://www.sciencedirect.com/science/article/abs/pii/S0893608024010098), Neural Networks (Elsevier), 2025, vol.184, pp.107080.</li>  
-    <!-- 其余论文条目复制此格式 -->
-  </ul>
-</div>
-
 <span class='anchor' id='awards-and-service'></span>
 # 🎖️ Awards and Service
 
 **Area Chair & Program Committee:**  
-**ACL ARR** (2026, 2025), **IEEE ICPADS** (2025), **IEEE AIAHPC** (2025), **IEEE TrustCom** (2025), **IEEE HPCC** (2024, 2022).
+- **ACL ARR** (2026, 2025), **IEEE ICPADS** (2025), **IEEE AIAHPC** (2025), **IEEE TrustCom** (2025), **IEEE HPCC** (2024, 2022).
 
 **Conference Reviewer:**   
-**ACL** ('25, '24, '23, '22), **AAAI** ('25), **NAACL** ('25, '24, '23), **EMNLP** ('24, '23), **ECAI** ('23)， **NLPCC** （‘25, '24).
+- **ACL** ('25, '24, '23, '22), **AAAI** ('25), **NAACL** ('25, '24, '23), **EMNLP** ('24, '23), **ECAI** ('23)， **NLPCC** （‘25, '24).
 
 **Journal Reviewer:**   
-IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Expert Systems with Applications (ESWA), Neural Networks, Neurocomputing, Engineering Applications of Artificial Intelligence (EAAI), Multimedia Systems, Data Science and Engineering, etc.
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Expert Systems with Applications (ESWA), Neural Networks, Neurocomputing, Engineering Applications of Artificial Intelligence (EAAI), Multimedia Systems, Data Science and Engineering, etc.
 
 **Awards:**
 - **Hubei Provincial Science and Technology Progress Award, Second Prize**, Department of Science and Technology of Hubei Province, 2025.
