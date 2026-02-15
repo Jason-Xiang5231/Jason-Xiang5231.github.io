@@ -22,6 +22,24 @@ redirect_from:
 I'm currently an Associate Professor at the Faculty of Artificial Intelligence in Education of The [Central China Normal University (CCNU)](https://www.ccnu.edu.cn/). Previously, I obtained my Ph.D. in Information and Communication Engineering from [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn), supervised by [Prof. Bang Wang](https://eic.hust.edu.cn/teacher/wangbang/index.htm). After that, I have spent times as a Postdoctoral Researcher at HUST, supervised by [Prof. Xiang Bai](http://faculty.hust.edu.cn/baixiang/zh_CN/more/1412472/jsjjgd/index.htm). My research interests cover the broad area of large-scale language model, natural language processing, knowledge graphs, and recommendation systems, with a current focus on information extraction, public opinion events and intelligence analysis. I have published nearly 30 papers in the top international AI conferences and journals such as ACL, COLING, EMNLP, CSUR, Neur.Netw., ESWA, etc. <a href="https://scholar.google.com/citations?user=YrcnOxYAAAAJ"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FJason-Xiang5231%2FJason-Xiang5231.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 </p>
 
+<p style="text-align: justify; line-height: 1.6; margin: 0;">
+I'm currently an Associate Professor at the Faculty of Artificial Intelligence in Education of The 
+<a href="https://www.ccnu.edu.cn/" target="_blank" style="text-decoration: underline; color: #0066cc; cursor: pointer;">Central China Normal University (CCNU)</a>. 
+Previously, I obtained my Ph.D. in Information and Communication Engineering from 
+<a href="https://www.hust.edu.cn" target="_blank" style="text-decoration: underline; color: #0066cc; cursor: pointer;">Huazhong University of Science and Technology (HUST)</a>, 
+supervised by 
+<a href="https://eic.hust.edu.cn/teacher/wangbang/index.htm" target="_blank" style="text-decoration: underline; color: #0066cc; cursor: pointer;">Prof. Bang Wang</a>. 
+After that, I have spent times as a Postdoctoral Researcher at HUST, supervised by 
+<a href="http://faculty.hust.edu.cn/baixiang/zh_CN/more/1412472/jsjjgd/index.htm" target="_blank" style="text-decoration: underline; color: #0066cc; cursor: pointer;">Prof. Xiang Bai</a>. 
+My research interests cover the broad area of large-scale language model, natural language processing, knowledge graphs, and recommendation systems, with a current focus on information extraction, public opinion events and intelligence analysis. I have published nearly 30 papers in the top international AI conferences and journals such as ACL, COLING, EMNLP, CSUR, Neur.Netw., ESWA, etc. 
+<a href="https://scholar.google.com/citations?user=YrcnOxYAAAAJ" target="_blank" style="text-decoration: none; cursor: pointer;">
+  <img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FJason-Xiang5231%2FJason-Xiang5231.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations" 
+       style="border: none; vertical-align: middle;" 
+       alt="Google Scholar Citations">
+</a>
+</p>
+
+
 <span style="color: red;">Prospective students:</span> I am looking for master's students interested in scientific research to work together, as well as self-motivated undergraduate students to study in the research group. If you are interested in working with me, please drop me an email with your resume.
 
 # 💼 Work Experiences
