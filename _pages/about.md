@@ -92,10 +92,6 @@ My research interests cover the broad area of large-scale language model, natura
 #### Journal Papers
 <!-- 
 (Under Review)
-- ``Neur.Netw. 2026`` [Multiplex Graph Prompt Learning and Attentive Fusion for Event Graph Completion](https://jason-xiang5231.github.io/), Neural Networks (Elsevier), Chao Liang, Bang Wang, Chuanhong Zhan, **Wei Xiang**. 
--->
-<!-- 
-(Under Review)
 - ``TASLP 2026`` [Calibrating In-context Bias in Large Language Model Predictions for Event Causality Identification](https://jason-xiang5231.github.io/), IEEE/ACM Transactions on Audio, Speech and Language Processing, **Wei Xiang**, Chuanhong Zhan, Xu Du, Bang Wang.
 -->
 <!-- 
@@ -130,6 +126,7 @@ My research interests cover the broad area of large-scale language model, natura
 (Under Review)
 - ``TKDE 2026`` [Adaptive Spatial-Temporal Hypergraph Contrastive Learning for Traffic Prediction](https://jason-xiang5231.github.io/), Transactions on Knowledge and Date Engineering, Siyu Sun, Shenghao Liu, **Wei Xiang**, Lingzhi Yi, Xianjun Deng, Hongwei Lu, Philip S. Yu.
 -->
+- ``Neu.Net. 2026`` C. Liang, B. Wang, C. Zhan, **W. Xiang<sup>†</sup>**. [Multiplex Graph Prompt Learning and Attentive Fusion for Event Graph Completion](https://jason-xiang5231.github.io/), Neural Networks (Elsevier), Accepted by the Neural Networks (Elsevier), 2026. 
 - ``TASLP 2025`` C. Zhan, **W. Xiang**, C. Liang and B. Wang. [Unified Semantic and Structural Modeling via Focal Attention for Causality Graph Event Prediction](https://ieeexplore.ieee.org/document/11206488), IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2025, vol.33, pp.4538-4551.
 
 - ``Neu.Net. 2025`` **W. Xiang**, C. Liu and B. Wang. [Modeling Document Causal Structure with a Hypergraph for Event Causality Identification](https://www.sciencedirect.com/science/article/abs/pii/S0893608024010098), Neural Networks (Elsevier), 2025, vol.184, pp.107080.
