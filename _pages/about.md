@@ -96,10 +96,6 @@ My research interests cover the broad area of large-scale language model, natura
 -->
 <!-- 
 (Under Review)
-- ``ToSN 2026`` [MVSTA:Multi-View Spatio-Temporal Correlation Awareness Network for Traffic Data Imputation](https://jason-xiang5231.github.io/), Transactions on Sensor Networks, Suwen Zhu, Yiheng Ruan, **Wei Xiang**, Yuanyuan He, Shenghao Liu, Jing Wang, Xianjun Deng.
--->
-<!-- 
-(Under Review)
 - ``DCN 2026`` [Anomaly Detection in Industrial Control Networks Based on Deep Reinforcement Learning and Data Reconstruction](https://jason-xiang5231.github.io/), Digital Communications and Networks, Hanjun Gao, Jiaqi Sun, Wei Feng, Xiaoxuan Fan, **Wei Xiang**, Shenghao Liu, Xianjun Deng.
 -->
 <!-- 
@@ -126,6 +122,7 @@ My research interests cover the broad area of large-scale language model, natura
 (Under Review)
 - ``TKDE 2026`` [Adaptive Spatial-Temporal Hypergraph Contrastive Learning for Traffic Prediction](https://jason-xiang5231.github.io/), Transactions on Knowledge and Date Engineering, Siyu Sun, Shenghao Liu, **Wei Xiang**, Lingzhi Yi, Xianjun Deng, Hongwei Lu, Philip S. Yu.
 -->
+- ``ToSN 2026``  Suwen Zhu, Yiheng Ruan, **W. Xiang<sup>†</sup>**, Yuanyuan He, Shenghao Liu, Jing Wang, Xianjun Deng. [MVSTA:Multi-View Spatio-Temporal Correlation Awareness Network for Traffic Data Imputation](https://dl.acm.org/doi/full/10.1145/3801744), Transactions on Sensor Networks,2026, vol.22, pp.1-24.
 - ``Neu.Net. 2026`` C. Liang, B. Wang, C. Zhan, **W. Xiang<sup>†</sup>**. [Multiplex Graph Prompt Learning and Attentive Fusion for Event Graph Completion](https://www.sciencedirect.com/science/article/abs/pii/S0893608026001929), Neural Networks (Elsevier), 2026, vol.199, pp.108730.
 
 - ``TASLP 2025`` C. Zhan, **W. Xiang**, C. Liang and B. Wang. [Unified Semantic and Structural Modeling via Focal Attention for Causality Graph Event Prediction](https://ieeexplore.ieee.org/document/11206488), IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2025, vol.33, pp.4538-4551.
