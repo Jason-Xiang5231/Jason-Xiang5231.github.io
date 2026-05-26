@@ -92,10 +92,6 @@ My research interests cover the broad area of large-scale language model, natura
 #### Journal Papers
 <!-- 
 (Under Review)
-- ``TASLP 2026`` [Calibrating In-context Bias in Large Language Model Predictions for Event Causality Identification](https://jason-xiang5231.github.io/), IEEE/ACM Transactions on Audio, Speech and Language Processing, **Wei Xiang**, Chuanhong Zhan, Xu Du, Bang Wang.
--->
-<!-- 
-(Under Review)
 - ``DCN 2026`` [Anomaly Detection in Industrial Control Networks Based on Deep Reinforcement Learning and Data Reconstruction](https://jason-xiang5231.github.io/), Digital Communications and Networks, Hanjun Gao, Jiaqi Sun, Wei Feng, Xiaoxuan Fan, **Wei Xiang**, Shenghao Liu, Xianjun Deng.
 -->
 <!-- 
@@ -122,6 +118,7 @@ My research interests cover the broad area of large-scale language model, natura
 (Under Review)
 - ``TKDE 2026`` [Adaptive Spatial-Temporal Hypergraph Contrastive Learning for Traffic Prediction](https://jason-xiang5231.github.io/), Transactions on Knowledge and Date Engineering, Siyu Sun, Shenghao Liu, **Wei Xiang**, Lingzhi Yi, Xianjun Deng, Hongwei Lu, Philip S. Yu.
 -->
+- ``TASLP 2026`` **Wei Xiang**, Chuanhong Zhan, Xu Du, Bang Wang. [Calibrating In-context Bias in Large Language Model Predictions for Event Causality Identification](https://ieeexplore.ieee.org/abstract/document/11515081), IEEE/ACM Transactions on Audio, Speech and Language Processing, 2026, vol.34, pp.2738-2750.
 - ``ToSN 2026``  Suwen Zhu, Yiheng Ruan, **W. Xiang<sup>†</sup>**, Yuanyuan He, Shenghao Liu, Jing Wang, Xianjun Deng. [MVSTA:Multi-View Spatio-Temporal Correlation Awareness Network for Traffic Data Imputation](https://dl.acm.org/doi/full/10.1145/3801744), Transactions on Sensor Networks,2026, vol.22, pp.1-24.
 - ``Neu.Net. 2026`` C. Liang, B. Wang, C. Zhan, **W. Xiang<sup>†</sup>**. [Multiplex Graph Prompt Learning and Attentive Fusion for Event Graph Completion](https://www.sciencedirect.com/science/article/abs/pii/S0893608026001929), Neural Networks (Elsevier), 2026, vol.199, pp.108730.
 
