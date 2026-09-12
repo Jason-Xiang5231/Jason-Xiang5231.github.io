@@ -64,67 +64,18 @@ My research interests cover the broad area of large-scale language model, natura
 - ``ACL 2022`` **W. Xiang**, B. Wang, L. Dai and Y. Mo. [Encoding and Fusing Semantic Connection and Linguistic Evidence for Implicit Discourse Relation Recognition](https://aclanthology.org/2022.findings-acl.256/), In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL-Findings). Dublin, Ireland, 2022, pp.3247-3257. 
 
 #### Journal Papers
-<!-- 
-(Under Review)
-- ``DCN 2026`` [Anomaly Detection in Industrial Control Networks Based on Deep Reinforcement Learning and Data Reconstruction](https://jason-xiang5231.github.io/), Digital Communications and Networks, Hanjun Gao, Jiaqi Sun, Wei Feng, Xiaoxuan Fan, **Wei Xiang**, Shenghao Liu, Xianjun Deng.
--->
-<!-- 
-(Under Review)
-- ``TBD 2026`` [Masked Pre-training Enhanced Trend-Structure- Aware Transformer for Traffic Flow Forecasting](https://jason-xiang5231.github.io/), Transactions on Big Data, Yuezhang, Wang, Shengjie Ye, **Wei Xiang**, Shenghao Liu, Yuanyuan He, Xianjun Deng, Junliang Ye.
--->
-<!-- 
-(Under Review)
-- ``TBD 2026`` [DDMGN: Dual-Domain Multimodal Network for Fake News Video Detection](https://jason-xiang5231.github.io/), Transactions on Big Data, Liangbin Gao, Kai Cui, **Wei Xiang**, Shenghao Liu, Hanjun Gao, Wei Feng, Xianjun Deng.
--->
-<!-- 
-(Under Review)
-- ``TMC 2026`` [Learning Temporal Features for Privacy-Preserving Time-Series Source-Free Domain Adaptation in Mobile Computing](https://jason-xiang5231.github.io/), Transactions on Mobile Computing, Xiaoxuan Fan, Jiaqi Sun, Suning Chen, Lingzhi Yi, **Wei Xiang**, Chuan Huang, Xianjun Deng.
--->
-<!-- 
-(Under Review)
-- ``ToIS 2026`` [H2CLSR: Hierarchy-Aware Hyperbolic Contrastive Learning for Social Recommendation](https://jason-xiang5231.github.io/), Transactions on Information Systems, Yunkang Deng, Shenghao Liu, Li Sun, **Wei Xiang**, Meng Luo, Xianjun Deng.
--->
-<!-- 
-(Under Review)
-- ``TIFS 2026`` [Tensor-based Phase-Aware Early Detection Framework for Ethereum Scam Tokens](https://jason-xiang5231.github.io/), Transactions on Forensics and Security, Shuilong Wang, Laurence T. Yang, Xianjun Deng, **Wei Xiang**, Cannian Zou, Yuanyuan He, Hongyang Yan.
--->
-<!-- 
-(Under Review)
-- ``TKDE 2026`` [Adaptive Spatial-Temporal Hypergraph Contrastive Learning for Traffic Prediction](https://jason-xiang5231.github.io/), Transactions on Knowledge and Date Engineering, Siyu Sun, Shenghao Liu, **Wei Xiang**, Lingzhi Yi, Xianjun Deng, Hongwei Lu, Philip S. Yu.
--->
 - ``TASLP 2026`` **Wei Xiang**, Chuanhong Zhan, Xu Du, Bang Wang. [Calibrating In-context Bias in Large Language Model Predictions for Event Causality Identification](https://ieeexplore.ieee.org/abstract/document/11515081), IEEE/ACM Transactions on Audio, Speech and Language Processing, 2026, vol.34, pp.2738-2750.
-- ``ToSN 2026``  Suwen Zhu, Yiheng Ruan, **W. Xiang<sup>†</sup>**, Yuanyuan He, Shenghao Liu, Jing Wang, Xianjun Deng. [MVSTA:Multi-View Spatio-Temporal Correlation Awareness Network for Traffic Data Imputation](https://dl.acm.org/doi/full/10.1145/3801744), Transactions on Sensor Networks,2026, vol.22, pp.1-24.
-- ``Neu.Net. 2026`` C. Liang, B. Wang, C. Zhan, **W. Xiang<sup>†</sup>**. [Multiplex Graph Prompt Learning and Attentive Fusion for Event Graph Completion](https://www.sciencedirect.com/science/article/abs/pii/S0893608026001929), Neural Networks (Elsevier), 2026, vol.199, pp.108730.
-
-- ``TASLP 2025`` C. Zhan, **W. Xiang**, C. Liang and B. Wang. [Unified Semantic and Structural Modeling via Focal Attention for Causality Graph Event Prediction](https://ieeexplore.ieee.org/document/11206488), IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2025, vol.33, pp.4538-4551.
-
-- ``Neu.Net. 2025`` **W. Xiang**, C. Liu and B. Wang. [Modeling Document Causal Structure with a Hypergraph for Event Causality Identification](https://www.sciencedirect.com/science/article/abs/pii/S0893608024010098), Neural Networks (Elsevier), 2025, vol.184, pp.107080.
-
-- ``TASLP 2025`` B. Wang, Z. Wang, **W. Xiang** and Y. Mo. [Adaptive Prompt Learning with Distilled Connective Knowledge for Implicit Discourse Relation Recognition](https://ieeexplore.ieee.org/document/10833725), IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2025, vol.33, pp.586-597.
-
-- ``NCAA 2025`` **W. Xiang**, C. Zhan, Q. Zhang and B. Wang. [DAPrompt: Deterministic Assumption Prompt Learning for Event Causality Identification](https://link.springer.com/article/10.1007/s00521-025-11486-x), Neural Computing and Applications (Springer), 2025, vol.37, pp.21743-21759.
-
-- ``CSL 2025`` **W. Xiang**, C. Liu and B. Wang. [Modeling correlated causal-effect structure with a hypergraph for document-level event causality identification](https://www.sciencedirect.com/science/article/abs/pii/S0885230824001359), Computer Speech and Language (Elsevier), 2025, vol.90, pp.101752.
-
-- ``NCAA 2024`` **W. Xiang**, S. Liu and B. Wang. [Parsing and Encoding Interactive Phrase Structure for Implicit Discourse Relation Recognition](https://link.springer.com/article/10.1007/s00521-024-09709-8), Neural Computing and Applications (Springer), 2024, vol.36, pp.13783-13797.
-
-- ``CSUR 2023`` **W. Xiang** and B. Wang. [A Survey of Implicit Discourse Relation Recognition](https://dl.acm.org/doi/10.1145/3574134), ACM Computing Surveys, 2023, vol.55(12), pp.1-34.
-
-- ``ESWA 2023`` B. Wang, X. Cai, M. Xu and **W. Xiang<sup>†</sup>**. [A graph-enhanced attention model for community detection in multiplex networks](https://www.sciencedirect.com/science/article/abs/pii/S0957417423010540), Expert Systems With Applications (Elsevier), 2023, vol.230(15), pp.120552.
-
-- ``NPL 2023`` L. Dai, B. Wang, **W. Xiang** and Y. Mo. [Modeling Character-Word Interaction via a Novel Mesh Transformer for Chinese Event Detection](https://link.springer.com/article/10.1007/s11063-023-11382-2), Neural Processing Letters (Springer), 2023, vol.55, pp.11429-114488. 
-
-- ``Appl.Int. 2022`` L. Dai, B. Wang, **W. Xiang** and Y. Mo. [A Syntactic Distance Sensitive Neural Network for Event Argument Extraction](https://link.springer.com/article/10.1007/s10489-022-03598-x), Applied Intelligence (Springer), 2022, vol.53, pp.6554-6568. 
-
-<!-- 
-- ``MDPI 2023`` [Cross-Modal Image Registration via Rasterized Parameter Prediction for Object Tracking](https://www.mdpi.com/2076-3417/13/9/5359), Applied Science, Qing Zhang, **Wei Xiang**.
--->
-
-<!-- 
-- ``MDPI 2023`` [RadarPDR: Radar-Assisted Indoor Pedestrian Dead Reckoning](https://pmc.ncbi.nlm.nih.gov/articles/PMC10007269/), Sensors, Jianbiao He, **Wei Xiang**, Qing Zhang, Bang Wang.
--->
-
-- ``ACCESS 2020`` **W. Xiang** and B. Wang. [A Survey of Event Extraction from Text](https://ieeexplore.ieee.org/document/8918013), IEEE ACCESS, 2019, vol.7, pp.173111-173137.
+- ``ToSN 2026``  Suwen Zhu, Yiheng Ruan, **Wei Xiang<sup>†</sup>**, Yuanyuan He, Shenghao Liu, Jing Wang, Xianjun Deng. [MVSTA:Multi-View Spatio-Temporal Correlation Awareness Network for Traffic Data Imputation](https://dl.acm.org/doi/full/10.1145/3801744), Transactions on Sensor Networks,2026, vol.22, pp.1-24.
+- ``Neu.Net. 2026`` Chao Liang, Bang Wang, Chuanhong Zhan, **Wei Xiang<sup>†</sup>**. [Multiplex Graph Prompt Learning and Attentive Fusion for Event Graph Completion](https://www.sciencedirect.com/science/article/abs/pii/S0893608026001929), Neural Networks (Elsevier), 2026, vol.199, pp.108730.
+- ``DCN 2026`` Hanjun Gao, Jiaqi Sun, Wei Feng, Xiaoxuan Fan, **Wei Xiang<sup>†</sup>**, Shenghao Liu, Xianjun Deng. [Anomaly Detection in Industrial Control Networks Based on Deep Reinforcement Learning and Data Reconstruction](https://jason-xiang5231.github.io/), Accepted by Digital Communications and Networks (Elsevier), 2026, pp.1-12.
+- ``TDSC 2026`` Xiaoxuan Fan, Jiaqi Sun, Xianjun Deng, Suning Chen, Lingzhi Yi, Shenghao Liu, Wei Xiang. [Temporal-augmented Source-Free Domain Adaptation for Secure and Robust Federated Time-series Learning
+](https://jason-xiang5231.github.io/), Accepted by IEEE Transactions on Dependable and Secure Computing, 2026, pp.1-14.
+- ``TBD 2026`` Liangbin Gao, Kai Cui, **Wei Xiang<sup>†</sup>**, Shenghao Liu, Hanjun Gao, Wei Feng, Xianjun Deng. [DDMGN: Dual-Domain Multimodal Graph Network for Fake News Video Detection](https://jason-xiang5231.github.io/), Accepted by IEEE Transactions on Big Data, 2026, pp.1-14.
+- ``Neu.Net. 2025`` **Wei Xiang**, Cheng Liu and Bang Wang. [Modeling Document Causal Structure with a Hypergraph for Event Causality Identification](https://www.sciencedirect.com/science/article/abs/pii/S0893608024010098), Neural Networks (Elsevier), 2025, vol.184, pp.107080.
+- ``NCAA 2025`` **Wei Xiang**, Chuanhong Zhan, Qing Zhang and Bang Wang. [DAPrompt: Deterministic Assumption Prompt Learning for Event Causality Identification](https://link.springer.com/article/10.1007/s00521-025-11486-x), Neural Computing and Applications (Springer), 2025, vol.37, pp.21743-21759.
+- ``CSL 2025`` **Wei Xiang**, Cheng Liu and Bang Wang. [Modeling correlated causal-effect structure with a hypergraph for document-level event causality identification](https://www.sciencedirect.com/science/article/abs/pii/S0885230824001359), Computer Speech and Language (Elsevier), 2025, vol.90, pp.101752.
+- ``CSUR 2023`` **Wei Xiang** and Bang Wang. [A Survey of Implicit Discourse Relation Recognition](https://dl.acm.org/doi/10.1145/3574134), ACM Computing Surveys, 2023, vol.55(12), pp.1-34.
+- ``ESWA 2023`` Bang Wang, Xiang Cai, Minghua Xu and **Wei Xiang<sup>†</sup>**. [A graph-enhanced attention model for community detection in multiplex networks](https://www.sciencedirect.com/science/article/abs/pii/S0957417423010540), Expert Systems With Applications (Elsevier), 2023, vol.230(15), pp.120552.
 
 <span class='anchor' id='awards-and-service'></span>
 # 🎖️ Awards and Service
