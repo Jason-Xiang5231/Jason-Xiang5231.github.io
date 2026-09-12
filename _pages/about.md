@@ -51,43 +51,17 @@ My research interests cover the broad area of large-scale language model, natura
 <span class='anchor' id='selected-publications'></span>
 # 📝 Selected Publications  
 #### Conference Papers
+- ``ACM MM 2026`` Y. Shen, K. Cui, **W. Xiang<sup>†</sup>**, S. Liu, X. Deng. [RAFTNet: Rationale Adaptive Fusion Target-guided Agent Network for Harmful Meme Detection](https://Jason-Xiang5231.github.io), Accepted by The ACM International Conference on Multimedia (ACM MM). Rio de Janeiro, Brazil, 2026, pp.1-9.
 - ``WWW 2026`` J. Sun, S. Liu, X. Deng, **W. Xiang**, M. Luo, Q. Zhang, D. Zheng. [Unsupervised Subgraph Anomaly Detection based on Pattern Collaboration](https://Jason-Xiang5231.github.io), Accepted by The ACM Web Conference (WWW). Dubai, United Arab Emirates, 2026, pp.1-8.
-
 - ``WWW 2026`` X. Fan, J. Sun, X. Deng, Q. Zhang, **W. Xiang**, S. Liu, L. Yi. [Automated Model Selection for Multivariate Time Series Forecasting](https://Jason-Xiang5231.github.io), Accepted by the ACM web conference (WWW). Dubai, United Arab Emirates, 2026, pp.1-8.
-
 - ``ACL 2025`` **W. Xiang**, C. Zhan, Q. Zhang and B. Wang. [Evaluating Instructively Generated Statement by Large Language Models for directional Event Causality Identification](https://aclanthology.org/2025.findings-acl.43/), In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-Findings). Vienna, Austria, 2025, pp.779–785.
-
-- ``ICPADS 2025`` N. Zhang, S. Chen, S. Liu, X. Deng, Y. He, **W. Xiang**, M. Li. [SecFinder: An IoT Device Identification System Based on Flow-level Traffic in Smart Home](https://ieeexplore.ieee.org/document/11323115), In IEEE 31th International Conference on Parallel and Distributed Systems (ICPADS). Hefei, China, 2025, pp.1-8. (Outstanding Paper)
-
-- ``TrustCom 2025`` Z. Jin, J. Ma, Y. He, **W. Xiang**, Q. Zhang, T. Zhang. [TLSA: Transfer Learning Enhanced Link Stealing Attacks on Graph Neural Networks](https://www.computer.org/csdl/proceedings-article/trustcom/2025/653200b182/2dMl7u36qpa), In 2025 IEEE 24th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom). Guiyang, China, 2025, pp.1182-1189.
-
 - ``ACL 2024`` C. Liu, **W. Xiang** and B. Wang. [Identifying while Learning for Document Event Causality Identification](https://aclanthology.org/2024.acl-long.210/), In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL). Bangkok, Thailand, 2024, pp.3815–3827.
-
 - ``ACL 2024`` S. Liu, B. Wang, **W. Xiang**, H. Xu and M. Xu. [Encoding Hierarchical Schema via Concept Flow for Multifaceted Ideology Detection](https://aclanthology.org/2024.findings-acl.172/), In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL-Findings). Bangkok, Thailand, 2024, pp.2930–2942.
-
 - ``EMNLP 2024`` C. Liang, **W. Xiang** and B. Wang. [In-context Contrastive Learning for Event Causality Identification](https://aclanthology.org/2024.emnlp-main.51/), In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP). Miami, Florida, USA, 2024, pp.868-881.
-
 - ``EMNLP 2024`` C. Zhan<sup>†</sup>, **W. Xiang<sup>†</sup>**, C. Liang and B. Wang. [What Would Happen Next? Predicting Consequences from An Event Causality Graph](https://aclanthology.org/2024.findings-emnlp.45/), In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP-Findings). Miami, Florida, USA, 2024, pp.820–832.
-
-- ``NLPCC 2024`` R. Wang, **W. Xiang**, Z. Wang and B. Wang. [Retrieval-Enhanced Template Generation for Template Extraction](https://link.springer.com/chapter/10.1007/978-981-97-9431-7_29), In The 13rd CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC). Hangzhou, China, 2024, pp.379-391.
-
-- ``NLPCC 2024`` Z. Zheng, C. Liang, **W. Xiang** and B. Wang. [Bias-Rectified Multi-way Learning with Data Augmentation for Implicit Discourse Relation Recognition](https://link.springer.com/chapter/10.1007/978-981-97-9431-7_28), In The 13rd CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC). Hangzhou, China, 2024, pp.366–378.
-
 - ``ACL 2023`` **W. Xiang**, C. Liang and B. Wang. [TEPrompt: Task Enlightenment Prompt Learning for Implicit Discourse Relation Recognition](https://aclanthology.org/2023.findings-acl.785/), In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL-Findings). Toronto, Canada, 2023, pp.12403–12414.
-
-- ``EMNLP 2023`` S. Liu, Z. Luo, M. Xu, L. Wei, Z. Wei, H. Yu, **W. Xiang** and B. Wang. [Ideology Takes Multiple Looks: A High-Quality Dataset for Multifaceted Ideology Detection](https://aclanthology.org/2023.emnlp-main.256/), In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP). Singapore, 2023, pp.4200-4213.
-
 - ``COLING 2022`` **W. Xiang**, Z. Wang, L. Dai and B. Wang. [ConnPrompt: Connective-Cloze Prompt Learning for Implicit Discourse Relation Recognition](https://aclanthology.org/2022.coling-1.75/), In Proceedings of the 29th International Conference on Computational Linguistics (COLING). Gyeongju, Republic of Korea, 2022, pp.902-911.
-
 - ``ACL 2022`` **W. Xiang**, B. Wang, L. Dai and Y. Mo. [Encoding and Fusing Semantic Connection and Linguistic Evidence for Implicit Discourse Relation Recognition](https://aclanthology.org/2022.findings-acl.256/), In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL-Findings). Dublin, Ireland, 2022, pp.3247-3257. 
-
-- ``EMNLP 2022`` L. Dai, B. Wang, **W. Xiang** and Y. Mo. [Bi-Directional Iterative Prompt-Tuning for Event Argument Extraction](https://aclanthology.org/2022.emnlp-main.419/), In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP). Abu Dhabi, United Arab Emirates, 2022, pp.6251-6263.
-
-- ``PAKDD 2022`` L. Dai, B. Wang, **W. Xiang**, M. Xu and H. Xu. [A Hybrid Semantic-Topic Co-encoding Network for Social Emotion Classification](https://link.springer.com/chapter/10.1007/978-3-031-05933-9_46), In The 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD). Chengdu, China, 2022, pp.587–598.
-
-- ``NLPCC 2021`` L. Dai, B. Wang, **W. Xiang** and Y. Mo. [Event Argument Extraction via a Distance-Sensitive Graph Convolutional Network](https://link.springer.com/chapter/10.1007/978-3-030-88483-3_5), In The 10th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC). Qingdao, China, 2021, pp.59–72.
-
-- ``SIGIR 2019`` C. Wang, B. Wang, **W. Xiang** and M. Xu. [Encoding Syntactic Dependency and Topical Information for Social Emotion Classification](https://dl.acm.org/doi/10.1145/3331184.3331287), In The 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR). Paris, France, 2019, pp.881-884.
 
 #### Journal Papers
 <!-- 
