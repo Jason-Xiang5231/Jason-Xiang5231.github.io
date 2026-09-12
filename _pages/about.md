@@ -68,7 +68,7 @@ My research interests cover the broad area of large-scale language model, natura
 - ``ToSN 2026``  Suwen Zhu, Yiheng Ruan, **Wei Xiang<sup>†</sup>**, Yuanyuan He, Shenghao Liu, Jing Wang, Xianjun Deng. [MVSTA:Multi-View Spatio-Temporal Correlation Awareness Network for Traffic Data Imputation](https://dl.acm.org/doi/full/10.1145/3801744), Transactions on Sensor Networks,2026, vol.22, pp.1-24.
 - ``Neu.Net. 2026`` Chao Liang, Bang Wang, Chuanhong Zhan, **Wei Xiang<sup>†</sup>**. [Multiplex Graph Prompt Learning and Attentive Fusion for Event Graph Completion](https://www.sciencedirect.com/science/article/abs/pii/S0893608026001929), Neural Networks (Elsevier), 2026, vol.199, pp.108730.
 - ``DCN 2026`` Hanjun Gao, Jiaqi Sun, Wei Feng, Xiaoxuan Fan, **Wei Xiang<sup>†</sup>**, Shenghao Liu, Xianjun Deng. [Anomaly Detection in Industrial Control Networks Based on Deep Reinforcement Learning and Data Reconstruction](https://jason-xiang5231.github.io/), Accepted by Digital Communications and Networks (Elsevier), 2026, pp.1-12.
-- ``TDSC 2026`` Xiaoxuan Fan, Jiaqi Sun, Xianjun Deng, Suning Chen, Lingzhi Yi, Shenghao Liu, Wei Xiang. [Temporal-augmented Source-Free Domain Adaptation for Secure and Robust Federated Time-series Learning
+- ``TDSC 2026`` Xiaoxuan Fan, Jiaqi Sun, Xianjun Deng, Suning Chen, Lingzhi Yi, Shenghao Liu, **Wei Xiang**. [Temporal-augmented Source-Free Domain Adaptation for Secure and Robust Federated Time-series Learning
 ](https://jason-xiang5231.github.io/), Accepted by IEEE Transactions on Dependable and Secure Computing, 2026, pp.1-14.
 - ``TBD 2026`` Liangbin Gao, Kai Cui, **Wei Xiang<sup>†</sup>**, Shenghao Liu, Hanjun Gao, Wei Feng, Xianjun Deng. [DDMGN: Dual-Domain Multimodal Graph Network for Fake News Video Detection](https://jason-xiang5231.github.io/), Accepted by IEEE Transactions on Big Data, 2026, pp.1-14.
 - ``Neu.Net. 2025`` **Wei Xiang**, Cheng Liu and Bang Wang. [Modeling Document Causal Structure with a Hypergraph for Event Causality Identification](https://www.sciencedirect.com/science/article/abs/pii/S0893608024010098), Neural Networks (Elsevier), 2025, vol.184, pp.107080.
@@ -84,12 +84,12 @@ My research interests cover the broad area of large-scale language model, natura
 - **ACL ARR** (2026, 2025), **IEEE ICPADS** (2025), **IEEE AIAHPC** (2025), **IEEE TrustCom** (2025), **IEEE HPCC** (2024, 2022).
 
 **Conference Reviewer:**   
-- **ACL** ('25, '24, '23, '22), **AAAI** ('25), **NAACL** ('25, '24, '23), **EMNLP** ('24, '23), **ECAI** ('23)， **NLPCC** （‘25, '24).
+- **ACL** ('25, '24, '23, '22), **AAAI** ('26, '25), **NAACL** ('25, '24, '23), **EMNLP** ('24, '23), **ECAI** ('23)， **NLPCC** （‘25, '24).
 
 **Journal Reviewer:**   
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Big Data (TBD), IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), Information Fusion, Expert Systems with Applications (ESWA), Informationi Science, Neural Networks, Neurocomputing, Engineering Applications of Artificial Intelligence (EAAI), Multimedia Systems, Computer Speech & Language (CSL), Data Science and Engineering (DSEJ), etc.
 
 **Awards:**
-- **Hubei Provincial Science and Technology Progress Award, Second Prize**, Department of Science and Technology of Hubei Province, 2025.
+- **Hubei Provincial Science and Technology Progress Award, Second Prize**, Department of Science and Technology of Hubei Province, 2026.
 - **National Scholarship** for Doctoral Students, Ministry of Education of the People's Republic of China, 2023. 
 - **Huawei Scholarship**, Huawei Technologies Co., Ltd., 2022.
